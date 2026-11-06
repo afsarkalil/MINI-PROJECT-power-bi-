@@ -1,0 +1,500 @@
+txn_id,transaction_date,customer_name,customer_phone,product_name,category,quantity,unit_price,total_amount,payment_method,discount_percent,discount_amount,final_amount,cashier_name,store_id,receipt_number,loyalty_points_earned,notes
+SALE-00001,2024-01-05,Rajesh Kumar,+919876543210,Organic Basmati Rice 5kg,Groceries,3,1250.00,3750.00,UPI,,,3750.00,Amit Sharma,ST-001,RCP-000001,150,Customer asked for bagging help
+SALE-00002,2024-01-08,Priya Sharma,+919876543211,Tata Tea Gold 500g,Groceries,2,450.00,900.00,Cash,5.00,45.00,855.00,Priya Singh,ST-002,RCP-000002,45,
+SALE-00003,2024-01-12,Amit Patel,+919876543212,Amul Butter 500g,Groceries,1,220.00,220.00,Debit Card,0.00,0.00,220.00,Rahul Verma,ST-003,RCP-000003,11,
+SALE-00004,2024-01-15,Sneha Reddy,+919876543213,Colgate Total 100g,Personal Care,4,140.00,560.00,Wallet,10.00,56.00,504.00,Sneha Patel,ST-004,RCP-000004,28,Requested extra toothbrush sample
+SALE-00005,2024-01-18,Vikram Singh,+919876543214,Parle-G Biscuits 500g,Snacks,5,45.00,225.00,Credit Card,,,225.00,Vikram Joshi,ST-005,RCP-000005,11,
+SALE-00006,2024-01-22,Anita Desai,+919876543215,Maggi Noodles 70g,Snacks,10,12.00,120.00,UPI,0.00,0.00,120.00,Amit Sharma,ST-006,RCP-000006,6,
+SALE-00007,2024-01-25,Rahul Verma,+919876543216,Himalaya Soap 125g,Personal Care,2,85.00,170.00,Cash,15.00,25.50,144.50,Priya Singh,ST-007,RCP-000007,8,Bought for gift pack
+SALE-00008,2024-01-28,Deepa Iyer,+919876543217,Dove Body Wash 250ml,Personal Care,1,350.00,350.00,Debit Card,,,350.00,Rahul Verma,ST-008,RCP-000008,17,
+SALE-00009,2024-02-02,Suresh Nair,+919876543218,Lay's Chips Classic 50g,Snacks,3,30.00,90.00,Wallet,5.00,4.50,85.50,Sneha Patel,ST-009,RCP-000009,4,
+SALE-00010,2024-02-05,Kavita Joshi,+919876543219,Tropicana Juice 1L,Beverages,2,110.00,220.00,Credit Card,0.00,0.00,220.00,Vikram Joshi,ST-010,RCP-000010,11,
+SALE-00011,2024-02-08,Manoj Gupta,+919876543220,Cadbury Dairy Milk 50g,Snacks,6,60.00,360.00,UPI,10.00,36.00,324.00,Amit Sharma,ST-011,RCP-000011,16,Kids birthday party supplies
+SALE-00012,2024-02-12,Pooja Mehta,+919876543221,Britannia Bread 400g,Groceries,4,55.00,220.00,Cash,,,220.00,Priya Singh,ST-012,RCP-000012,11,
+SALE-00013,2024-02-15,Arjun Rao,+919876543222,Patanjali Honey 500g,Groceries,1,280.00,280.00,Debit Card,5.00,14.00,266.00,Rahul Verma,ST-013,RCP-000013,13,Health conscious purchase
+SALE-00014,2024-02-18,Neha Kapoor,+919876543223,Sunsilk Shampoo 200ml,Personal Care,2,190.00,380.00,Wallet,,,380.00,Sneha Patel,ST-014,RCP-000014,19,
+SALE-00015,2024-02-22,Sanjay Mishra,+919876543224,Nescafe Classic 100g,Beverages,3,160.00,480.00,Credit Card,0.00,0.00,480.00,Vikram Joshi,ST-015,RCP-000015,24,
+SALE-00016,2024-02-25,Rajesh Kumar,+919876543225,Organic Basmati Rice 5kg,Groceries,1,1250.00,1250.00,UPI,15.00,187.50,1062.50,Amit Sharma,ST-016,RCP-000016,53,Bulk purchase for family event
+SALE-00017,2024-03-01,Priya Sharma,+919876543226,Tata Tea Gold 500g,Groceries,1,450.00,450.00,Cash,,,450.00,Priya Singh,ST-017,RCP-000017,22,
+SALE-00018,2024-03-05,Amit Patel,+919876543227,Amul Butter 500g,Groceries,2,220.00,440.00,Debit Card,5.00,22.00,418.00,Rahul Verma,ST-018,RCP-000018,21,
+SALE-00019,2024-03-08,Sneha Reddy,+919876543228,Colgate Total 100g,Personal Care,3,140.00,420.00,Wallet,,,420.00,Sneha Patel,ST-019,RCP-000019,21,
+SALE-00020,2024-03-12,Vikram Singh,+919876543229,Parle-G Biscuits 500g,Snacks,4,45.00,180.00,Credit Card,10.00,18.00,162.00,Vikram Joshi,ST-020,RCP-000020,8,Office pantry restock
+SALE-00021,2024-03-15,Anita Desai,+919876543230,Maggi Noodles 70g,Snacks,5,12.00,60.00,UPI,0.00,0.00,60.00,Amit Sharma,ST-021,RCP-000021,3,
+SALE-00022,2024-03-18,Rahul Verma,+919876543231,Himalaya Soap 125g,Personal Care,1,85.00,85.00,Cash,,,85.00,Priya Singh,ST-022,RCP-000022,4,
+SALE-00023,2024-03-22,Deepa Iyer,+919876543232,Dove Body Wash 250ml,Personal Care,2,350.00,700.00,Debit Card,5.00,35.00,665.00,Rahul Verma,ST-023,RCP-000023,33,Spa day preparation
+SALE-00024,2024-03-25,Suresh Nair,+919876543233,Lay's Chips Classic 50g,Snacks,2,30.00,60.00,Wallet,,,60.00,Sneha Patel,ST-024,RCP-000024,3,
+SALE-00025,2024-03-28,Kavita Joshi,+919876543234,Tropicana Juice 1L,Beverages,3,110.00,330.00,Credit Card,0.00,0.00,330.00,Vikram Joshi,ST-025,RCP-000025,16,Party drinks
+SALE-00026,2024-02-01,Rajesh Kumar,+919876543210,Organic Basmati Rice 5kg,Groceries,2,500.00,1000.00,UPI,5.00,50.00,950.00,Amit Sharma,ST-026,RCP-000026,100,Customer requested extra bagging
+SALE-00027,2024-02-02,Priya Sharma,+919876543211,Tata Tea Gold 500g,Beverages,1,250.00,250.00,Cash,,,250.00,Priya Singh,ST-027,RCP-000027,25,
+SALE-00028,2024-02-03,Amit Patel,+919876543212,Amul Butter 500g,Groceries,3,120.00,360.00,Debit Card,10.00,36.00,324.00,Rahul Verma,ST-028,RCP-000028,36,Gift wrapped
+SALE-00029,2024-02-04,Sneha Reddy,+919876543213,Colgate Total 100g,Personal Care,2,85.00,170.00,Wallet,,,170.00,Sneha Patel,ST-029,RCP-000029,17,
+SALE-00030,2024-02-05,Vikram Singh,+919876543214,Parle-G Biscuits 500g,Snacks,5,45.00,225.00,Credit Card,0.00,0.00,225.00,Vikram Joshi,ST-030,RCP-000030,22,Bulk order for office
+SALE-00031,2024-02-06,Anita Desai,+919876543215,Maggi Noodles 70g,Snacks,4,12.00,48.00,UPI,,,48.00,Amit Sharma,ST-031,RCP-000031,5,
+SALE-00032,2024-02-07,Rahul Verma,+919876543216,Himalaya Soap 125g,Personal Care,2,60.00,120.00,Cash,15.00,18.00,102.00,Priya Singh,ST-032,RCP-000032,10,Sensitive skin product
+SALE-00033,2024-02-08,Deepa Iyer,+919876543217,Dove Body Wash 250ml,Personal Care,1,350.00,350.00,Debit Card,,,350.00,Rahul Verma,ST-033,RCP-000033,35,
+SALE-00034,2024-02-09,Suresh Nair,+919876543218,Lay's Chips Classic 50g,Snacks,6,25.00,150.00,Wallet,5.00,7.50,142.50,Sneha Patel,ST-034,RCP-000034,15,Party snacks
+SALE-00035,2024-02-10,Kavita Joshi,+919876543219,Tropicana Juice 1L,Beverages,2,90.00,180.00,Credit Card,,,180.00,Vikram Joshi,ST-035,RCP-000035,18,
+SALE-00036,2024-02-11,Manoj Gupta,+919876543220,Cadbury Dairy Milk 50g,Snacks,3,110.00,330.00,UPI,10.00,33.00,297.00,Amit Sharma,ST-036,RCP-000036,30,Birthday gift
+SALE-00037,2024-02-12,Pooja Mehta,+919876543221,Britannia Bread 400g,Groceries,4,40.00,160.00,Cash,,,160.00,Priya Singh,ST-037,RCP-000037,16,
+SALE-00038,2024-02-13,Arjun Rao,+919876543222,Patanjali Honey 500g,Groceries,1,450.00,450.00,Debit Card,,,450.00,Rahul Verma,ST-038,RCP-000038,45,Organic certification verified
+SALE-00039,2024-02-14,Neha Kapoor,+919876543223,Sunsilk Shampoo 200ml,Personal Care,2,180.00,360.00,Wallet,20.00,72.00,288.00,Sneha Patel,ST-039,RCP-000039,28,Promotional offer applied
+SALE-00040,2024-02-15,Sanjay Mishra,+919876543224,Nescafe Classic 100g,Beverages,1,220.00,220.00,Credit Card,,,220.00,Vikram Joshi,ST-040,RCP-000040,22,
+SALE-00041,2024-02-16,Rajesh Kumar,+919876543225,Organic Basmati Rice 5kg,Groceries,1,500.00,500.00,UPI,,,500.00,Amit Sharma,ST-041,RCP-000041,50,Repeat customer
+SALE-00042,2024-02-17,Priya Sharma,+919876543226,Tata Tea Gold 500g,Beverages,2,250.00,500.00,Cash,5.00,25.00,475.00,Priya Singh,ST-042,RCP-000042,47,
+SALE-00043,2024-02-18,Amit Patel,+919876543227,Amul Butter 500g,Groceries,1,120.00,120.00,Debit Card,,,120.00,Rahul Verma,ST-043,RCP-000043,12,Fresh stock
+SALE-00044,2024-02-19,Sneha Reddy,+919876543228,Colgate Total 100g,Personal Care,3,85.00,255.00,Wallet,,,255.00,Sneha Patel,ST-044,RCP-000044,25,
+SALE-00045,2024-02-20,Vikram Singh,+919876543229,Parle-G Biscuits 500g,Snacks,2,45.00,90.00,Credit Card,,,90.00,Vikram Joshi,ST-045,RCP-000045,9,Kids snack
+SALE-00046,2024-02-21,Anita Desai,+919876543230,Maggi Noodles 70g,Snacks,5,12.00,60.00,UPI,10.00,6.00,54.00,Amit Sharma,ST-046,RCP-000046,5,Quick dinner
+SALE-00047,2024-02-22,Rahul Verma,+919876543231,Himalaya Soap 125g,Personal Care,1,60.00,60.00,Cash,,,60.00,Priya Singh,ST-047,RCP-000047,6,
+SALE-00048,2024-02-23,Deepa Iyer,+919876543232,Dove Body Wash 250ml,Personal Care,2,350.00,700.00,Debit Card,15.00,105.00,595.00,Rahul Verma,ST-048,RCP-000048,59,Family size
+SALE-00049,2024-02-24,Suresh Nair,+919876543233,Lay's Chips Classic 50g,Snacks,4,25.00,100.00,Wallet,,,100.00,Sneha Patel,ST-049,RCP-000049,10,Movie night
+SALE-00050,2024-02-25,Kavita Joshi,+919876543234,Tropicana Juice 1L,Beverages,3,90.00,270.00,Credit Card,,,270.00,Vikram Joshi,ST-050,RCP-000050,27,Healthy choice
+SALE-00051,2024-02-11,Rajesh Kumar,+919876543201,Organic Basmati Rice 5kg,Groceries,2,540.00,1080.00,UPI,5.00,54.00,1026.00,Amit Sharma,ST-051,RCP-000051,108,Customer requested extra bagging
+SALE-00052,2024-02-12,Priya Sharma,+919876543202,Tata Tea Gold 500g,Beverages,1,280.00,280.00,Cash,,,280.00,Priya Singh,ST-052,RCP-000052,28,
+SALE-00053,2024-02-13,Amit Patel,+919876543203,Amul Butter 500g,Groceries,3,110.00,330.00,Debit Card,10.00,33.00,297.00,Rahul Verma,ST-053,RCP-000053,33,
+SALE-00054,2024-02-14,Sneha Reddy,+919876543204,Colgate Total 100g,Personal Care,2,145.00,290.00,Wallet,0.00,0.00,290.00,Sneha Patel,ST-054,RCP-000054,29,
+SALE-00055,2024-02-15,Vikram Singh,+919876543205,Parle-G Biscuits 500g,Snacks,5,65.00,325.00,Credit Card,15.00,48.75,276.25,Vikram Joshi,ST-055,RCP-000055,32,Loyalty member discount applied
+SALE-00056,2024-02-16,Anita Desai,+919876543206,Maggi Noodles 70g,Snacks,10,12.00,120.00,UPI,0.00,0.00,120.00,Amit Sharma,ST-056,RCP-000056,12,
+SALE-00057,2024-02-17,Rahul Verma,+919876543207,Himalaya Soap 125g,Personal Care,4,95.00,380.00,Cash,20.00,76.00,304.00,Priya Singh,ST-057,RCP-000057,38,Bulk purchase
+SALE-00058,2024-02-18,Deepa Iyer,+919876543208,Dove Body Wash 250ml,Personal Care,1,320.00,320.00,Debit Card,,,320.00,Rahul Verma,ST-058,RCP-000058,32,
+SALE-00059,2024-02-19,Suresh Nair,+919876543209,Lay's Chips Classic 50g,Snacks,8,45.00,360.00,Wallet,5.00,18.00,342.00,Sneha Patel,ST-059,RCP-000059,36,
+SALE-00060,2024-02-20,Kavita Joshi,+919876543210,Tropicana Juice 1L,Beverages,2,180.00,360.00,Credit Card,0.00,0.00,360.00,Vikram Joshi,ST-060,RCP-000060,36,
+SALE-00061,2024-02-21,Manoj Gupta,+919876543211,Cadbury Dairy Milk 50g,Snacks,6,110.00,660.00,UPI,10.00,66.00,594.00,Amit Sharma,ST-061,RCP-000061,66,Gift purchase
+SALE-00062,2024-02-22,Pooja Mehta,+919876543212,Britannia Bread 400g,Groceries,3,85.00,255.00,Cash,0.00,0.00,255.00,Priya Singh,ST-062,RCP-000062,25,
+SALE-00063,2024-02-23,Arjun Rao,+919876543213,Patanjali Honey 500g,Groceries,1,450.00,450.00,Debit Card,15.00,67.50,382.50,Rahul Verma,ST-063,RCP-000063,45,
+SALE-00064,2024-02-24,Neha Kapoor,+919876543214,Sunsilk Shampoo 200ml,Personal Care,2,210.00,420.00,Wallet,5.00,21.00,399.00,Sneha Patel,ST-064,RCP-000064,42,
+SALE-00065,2024-02-25,Sanjay Mishra,+919876543215,Nescafe Classic 100g,Beverages,4,165.00,660.00,Credit Card,0.00,0.00,660.00,Vikram Joshi,ST-065,RCP-000065,66,
+SALE-00066,2024-02-26,Rajesh Kumar,+919876543216,Organic Basmati Rice 5kg,Groceries,1,540.00,540.00,UPI,10.00,54.00,486.00,Amit Sharma,ST-066,RCP-000066,54,Regular customer
+SALE-00067,2024-02-27,Priya Sharma,+919876543217,Tata Tea Gold 500g,Beverages,2,280.00,560.00,Cash,,,560.00,Priya Singh,ST-067,RCP-000067,56,
+SALE-00068,2024-02-28,Amit Patel,+919876543218,Amul Butter 500g,Groceries,5,110.00,550.00,Debit Card,20.00,110.00,440.00,Rahul Verma,ST-068,RCP-000068,55,Weekend sale
+SALE-00069,2024-02-29,Sneha Reddy,+919876543219,Colgate Total 100g,Personal Care,3,145.00,435.00,Wallet,0.00,0.00,435.00,Sneha Patel,ST-069,RCP-000069,43,
+SALE-00070,2024-03-01,Vikram Singh,+919876543220,Parle-G Biscuits 500g,Snacks,7,65.00,455.00,Credit Card,5.00,22.75,432.25,Vikram Joshi,ST-070,RCP-000070,45,
+SALE-00071,2024-03-02,Anita Desai,+919876543221,Maggi Noodles 70g,Snacks,12,12.00,144.00,UPI,0.00,0.00,144.00,Amit Sharma,ST-071,RCP-000071,14,
+SALE-00072,2024-03-03,Rahul Verma,+919876543222,Himalaya Soap 125g,Personal Care,2,95.00,190.00,Cash,15.00,28.50,161.50,Priya Singh,ST-072,RCP-000072,19,
+SALE-00073,2024-03-04,Deepa Iyer,+919876543223,Dove Body Wash 250ml,Personal Care,1,320.00,320.00,Debit Card,,,320.00,Rahul Verma,ST-073,RCP-000073,32,
+SALE-00074,2024-03-05,Suresh Nair,+919876543224,Lay's Chips Classic 50g,Snacks,6,45.00,270.00,Wallet,10.00,27.00,243.00,Sneha Patel,ST-074,RCP-000074,27,Family pack
+SALE-00075,2024-03-06,Kavita Joshi,+919876543225,Tropicana Juice 1L,Beverages,3,180.00,540.00,Credit Card,0.00,0.00,540.00,Vikram Joshi,ST-075,RCP-000075,54,
+SALE-00076,2024-02-14,Rajesh Kumar,+919876543210,Organic Basmati Rice 5kg,Groceries,2,1200.00,2400.00,UPI,5.00,120.00,2280.00,Amit Sharma,ST-076,RCP-000076,120,Customer requested extra bagging
+SALE-00077,2024-02-15,Priya Sharma,+919876543211,Tata Tea Gold 500g,Groceries,1,450.00,450.00,Cash,0.00,0.00,450.00,Priya Singh,ST-077,RCP-000077,25,
+SALE-00078,2024-02-16,Amit Patel,+919876543212,Amul Butter 500g,Groceries,3,280.00,840.00,Debit Card,10.00,84.00,756.00,Rahul Verma,ST-078,RCP-000078,42,Loyalty member discount applied
+SALE-00079,2024-02-17,Sneha Reddy,+919876543213,Colgate Total 100g,Personal Care,2,180.00,360.00,Wallet,0.00,0.00,360.00,Sneha Patel,ST-079,RCP-000079,18,
+SALE-00080,2024-02-18,Vikram Singh,+919876543214,Parle-G Biscuits 500g,Snacks,4,90.00,360.00,Credit Card,15.00,54.00,306.00,Vikram Joshi,ST-080,RCP-000080,15,Bulk purchase for office party
+SALE-00081,2024-02-19,Anita Desai,+919876543215,Maggi Noodles 70g,Snacks,5,15.00,75.00,UPI,0.00,0.00,75.00,Amit Sharma,ST-081,RCP-000081,4,
+SALE-00082,2024-02-20,Rahul Verma,+919876543216,Himalaya Soap 125g,Personal Care,1,120.00,120.00,Cash,5.00,6.00,114.00,Priya Singh,ST-082,RCP-000082,6,
+SALE-00083,2024-02-21,Deepa Iyer,+919876543217,Dove Body Wash 250ml,Personal Care,1,550.00,550.00,Debit Card,20.00,110.00,440.00,Rahul Verma,ST-083,RCP-000083,22,Promotional offer applied
+SALE-00084,2024-02-22,Suresh Nair,+919876543218,Lay's Chips Classic 50g,Snacks,6,30.00,180.00,Wallet,0.00,0.00,180.00,Sneha Patel,ST-084,RCP-000084,9,
+SALE-00085,2024-02-23,Kavita Joshi,+919876543219,Tropicana Juice 1L,Beverages,2,140.00,280.00,Credit Card,10.00,28.00,252.00,Vikram Joshi,ST-085,RCP-000085,13,Gift for birthday
+SALE-00086,2024-02-24,Manoj Gupta,+919876543220,Cadbury Dairy Milk 50g,Snacks,3,110.00,330.00,UPI,0.00,0.00,330.00,Amit Sharma,ST-086,RCP-000086,16,
+SALE-00087,2024-02-25,Pooja Mehta,+919876543221,Britannia Bread 400g,Groceries,2,85.00,170.00,Cash,5.00,8.50,161.50,Priya Singh,ST-087,RCP-000087,8,Fresh batch only
+SALE-00088,2024-02-26,Arjun Rao,+919876543222,Patanjali Honey 500g,Groceries,1,650.00,650.00,Debit Card,0.00,0.00,650.00,Rahul Verma,ST-088,RCP-000088,32,
+SALE-00089,2024-02-27,Neha Kapoor,+919876543223,Sunsilk Shampoo 200ml,Personal Care,1,320.00,320.00,Wallet,15.00,48.00,272.00,Sneha Patel,ST-089,RCP-000089,14,Hair care routine
+SALE-00090,2024-02-28,Sanjay Mishra,+919876543224,Nescafe Classic 100g,Beverages,1,420.00,420.00,Credit Card,0.00,0.00,420.00,Vikram Joshi,ST-090,RCP-000090,21,
+SALE-00091,2024-03-01,Rajesh Kumar,+919876543225,Organic Basmati Rice 5kg,Groceries,1,1200.00,1200.00,UPI,5.00,60.00,1140.00,Amit Sharma,ST-091,RCP-000091,60,Repeat customer
+SALE-00092,2024-03-02,Priya Sharma,+919876543226,Tata Tea Gold 500g,Groceries,2,450.00,900.00,Cash,0.00,0.00,900.00,Priya Singh,ST-092,RCP-000092,45,
+SALE-00093,2024-03-03,Amit Patel,+919876543227,Amul Butter 500g,Groceries,1,280.00,280.00,Debit Card,10.00,28.00,252.00,Rahul Verma,ST-093,RCP-000093,14,Weekly stock
+SALE-00094,2024-03-04,Sneha Reddy,+919876543228,Colgate Total 100g,Personal Care,3,180.00,540.00,Wallet,0.00,0.00,540.00,Sneha Patel,ST-094,RCP-000094,27,
+SALE-00095,2024-03-05,Vikram Singh,+919876543229,Parle-G Biscuits 500g,Snacks,2,90.00,180.00,Credit Card,15.00,27.00,153.00,Vikram Joshi,ST-095,RCP-000095,7,Kids favorite
+SALE-00096,2024-03-06,Anita Desai,+919876543230,Maggi Noodles 70g,Snacks,4,15.00,60.00,UPI,0.00,0.00,60.00,Amit Sharma,ST-096,RCP-000096,3,
+SALE-00097,2024-03-07,Rahul Verma,+919876543231,Himalaya Soap 125g,Personal Care,2,120.00,240.00,Cash,5.00,12.00,228.00,Priya Singh,ST-097,RCP-000097,11,Family pack
+SALE-00098,2024-03-08,Deepa Iyer,+919876543232,Dove Body Wash 250ml,Personal Care,1,550.00,550.00,Debit Card,20.00,110.00,440.00,Rahul Verma,ST-098,RCP-000098,22,Premium product
+SALE-00099,2024-03-09,Suresh Nair,+919876543233,Lay's Chips Classic 50g,Snacks,5,30.00,150.00,Wallet,0.00,0.00,150.00,Sneha Patel,ST-099,RCP-000099,7,Party snacks
+SALE-00100,2024-03-10,Kavita Joshi,+919876543234,Tropicana Juice 1L,Beverages,3,140.00,420.00,Credit Card,10.00,42.00,378.00,Vikram Joshi,ST-100,RCP-000100,19,Healthy choice
+SALE-00101,2024-03-15,Rajesh Kumar,+919876543210,Organic Basmati Rice 5kg,Groceries,2,450.00,900.00,UPI,5.00,45.00,855.00,Amit Sharma,ST-101,RCP-000101,45,Customer requested extra bagging
+SALE-00102,2024-03-16,Priya Sharma,+919876543211,Tata Tea Gold 500g,Groceries,1,320.00,320.00,Cash,,,320.00,Priya Singh,ST-102,RCP-000102,16,
+SALE-00103,2024-03-17,Amit Patel,+919876543212,Amul Butter 500g,Groceries,3,65.00,195.00,Debit Card,10.00,19.50,175.50,Rahul Verma,ST-103,RCP-000103,10,
+SALE-00104,2024-03-18,Sneha Reddy,+919876543213,Colgate Total 100g,Personal Care,2,120.00,240.00,Wallet,0.00,0.00,240.00,Sneha Patel,ST-104,RCP-000104,12,
+SALE-00105,2024-03-19,Vikram Singh,+919876543214,Parle-G Biscuits 500g,Snacks,5,45.00,225.00,Credit Card,,,225.00,Vikram Joshi,ST-105,RCP-000105,11,Loyalty member discount applied later
+SALE-00106,2024-03-20,Anita Desai,+919876543215,Maggi Noodles 70g,Snacks,10,12.00,120.00,UPI,15.00,18.00,102.00,Amit Sharma,ST-106,RCP-000106,6,Bulk purchase for office party
+SALE-00107,2024-03-21,Rahul Verma,+919876543216,Himalaya Soap 125g,Personal Care,4,85.00,340.00,Cash,,,340.00,Priya Singh,ST-107,RCP-000107,17,
+SALE-00108,2024-03-22,Deepa Iyer,+919876543217,Dove Body Wash 250ml,Personal Care,1,280.00,280.00,Debit Card,5.00,14.00,266.00,Rahul Verma,ST-108,RCP-000108,14,
+SALE-00109,2024-03-23,Suresh Nair,+919876543218,Lay's Chips Classic 50g,Snacks,6,30.00,180.00,Wallet,,,180.00,Sneha Patel,ST-109,RCP-000109,9,
+SALE-00110,2024-03-24,Kavita Joshi,+919876543219,Tropicana Juice 1L,Beverages,2,110.00,220.00,Credit Card,10.00,22.00,198.00,Vikram Joshi,ST-110,RCP-000110,11,
+SALE-00111,2024-03-25,Manoj Gupta,+919876543220,Cadbury Dairy Milk 50g,Snacks,3,75.00,225.00,UPI,,,225.00,Amit Sharma,ST-111,RCP-000111,11,Gift purchase
+SALE-00112,2024-03-26,Pooja Mehta,+919876543221,Britannia Bread 400g,Groceries,4,55.00,220.00,Cash,20.00,44.00,176.00,Priya Singh,ST-112,RCP-000112,8,Morning rush order
+SALE-00113,2024-03-27,Arjun Rao,+919876543222,Patanjali Honey 500g,Groceries,1,350.00,350.00,Debit Card,,,350.00,Rahul Verma,ST-113,RCP-000113,17,
+SALE-00114,2024-03-28,Neha Kapoor,+919876543223,Sunsilk Shampoo 200ml,Personal Care,2,180.00,360.00,Wallet,5.00,18.00,342.00,Sneha Patel,ST-114,RCP-000114,18,
+SALE-00115,2024-03-29,Sanjay Mishra,+919876543224,Nescafe Classic 100g,Beverages,1,190.00,190.00,Credit Card,,,190.00,Vikram Joshi,ST-115,RCP-000115,9,
+SALE-00116,2024-04-01,Rajesh Kumar,+919876543225,Organic Basmati Rice 5kg,Groceries,1,450.00,450.00,UPI,10.00,45.00,405.00,Amit Sharma,ST-116,RCP-000116,20,
+SALE-00117,2024-04-02,Priya Sharma,+919876543226,Tata Tea Gold 500g,Groceries,2,320.00,640.00,Cash,,,640.00,Priya Singh,ST-117,RCP-000117,32,
+SALE-00118,2024-04-03,Amit Patel,+919876543227,Amul Butter 500g,Groceries,5,65.00,325.00,Debit Card,,,325.00,Rahul Verma,ST-118,RCP-000118,16,
+SALE-00119,2024-04-04,Sneha Reddy,+919876543228,Colgate Total 100g,Personal Care,3,120.00,360.00,Wallet,15.00,54.00,306.00,Sneha Patel,ST-119,RCP-000119,15,
+SALE-00120,2024-04-05,Vikram Singh,+919876543229,Parle-G Biscuits 500g,Snacks,8,45.00,360.00,Credit Card,,,360.00,Vikram Joshi,ST-120,RCP-000120,18,Family pack purchase
+SALE-00121,2024-04-06,Anita Desai,+919876543230,Maggi Noodles 70g,Snacks,2,12.00,24.00,UPI,5.00,1.20,22.80,Amit Sharma,ST-121,RCP-000121,1,
+SALE-00122,2024-04-07,Rahul Verma,+919876543231,Himalaya Soap 125g,Personal Care,6,85.00,510.00,Cash,,,510.00,Priya Singh,ST-122,RCP-000122,25,
+SALE-00123,2024-04-08,Deepa Iyer,+919876543232,Dove Body Wash 250ml,Personal Care,1,280.00,280.00,Debit Card,10.00,28.00,252.00,Rahul Verma,ST-123,RCP-000123,12,
+SALE-00124,2024-04-09,Suresh Nair,+919876543233,Lay's Chips Classic 50g,Snacks,4,30.00,120.00,Wallet,,,120.00,Sneha Patel,ST-124,RCP-000124,6,
+SALE-00125,2024-04-10,Kavita Joshi,+919876543234,Tropicana Juice 1L,Beverages,3,110.00,330.00,Credit Card,20.00,66.00,264.00,Vikram Joshi,ST-125,RCP-000125,13,Weekend special deal
+SALE-00126,2024-03-15,Rajesh Kumar,+919876543210,Organic Basmati Rice 5kg,Groceries,2,350.00,700.00,UPI,,,700.00,Amit Sharma,ST-126,RCP-000126,350,Customer requested extra bagging
+SALE-00127,2024-03-16,Priya Sharma,+919876543211,Tata Tea Gold 500g,Groceries,1,280.00,280.00,Cash,5.00,14.00,266.00,Priya Singh,ST-127,RCP-000127,140,
+SALE-00128,2024-03-17,Amit Patel,+919876543212,Amul Butter 500g,Groceries,3,120.00,360.00,Debit Card,,,360.00,Rahul Verma,ST-128,RCP-000128,180,Price check completed
+SALE-00129,2024-03-18,Sneha Reddy,+919876543213,Colgate Total 100g,Personal Care,2,85.00,170.00,Wallet,10.00,17.00,153.00,Sneha Patel,ST-129,RCP-000130,85,
+SALE-00130,2024-03-19,Vikram Singh,+919876543214,Parle-G Biscuits 500g,Snacks,5,45.00,225.00,Credit Card,,,225.00,Vikram Joshi,ST-130,RCP-000131,112,
+SALE-00131,2024-03-20,Anita Desai,+919876543215,Maggi Noodles 70g,Snacks,4,12.00,48.00,UPI,,,48.00,Amit Sharma,ST-131,RCP-000132,24,Rushed checkout
+SALE-00132,2024-03-21,Rahul Verma,+919876543216,Himalaya Soap 125g,Personal Care,1,65.00,65.00,Cash,15.00,9.75,55.25,Priya Singh,ST-132,RCP-000133,32,
+SALE-00133,2024-03-22,Deepa Iyer,+919876543217,Dove Body Wash 250ml,Personal Care,1,240.00,240.00,Debit Card,,,240.00,Rahul Verma,ST-133,RCP-000134,120,
+SALE-00134,2024-03-23,Suresh Nair,+919876543218,Lay's Chips Classic 50g,Snacks,6,20.00,120.00,Wallet,,,120.00,Sneha Patel,ST-134,RCP-000135,60,
+SALE-00135,2024-03-24,Kavita Joshi,+919876543219,Tropicana Juice 1L,Beverages,2,90.00,180.00,Credit Card,,,180.00,Vikram Joshi,ST-135,RCP-000136,90,Customer asked for receipt copy
+SALE-00136,2024-03-25,Manoj Gupta,+919876543220,Cadbury Dairy Milk 50g,Snacks,3,55.00,165.00,UPI,,,165.00,Amit Sharma,ST-136,RCP-000137,82,
+SALE-00137,2024-03-26,Pooja Mehta,+919876543221,Britannia Bread 400g,Groceries,2,40.00,80.00,Cash,,,80.00,Priya Singh,ST-137,RCP-000138,40,
+SALE-00138,2024-03-27,Arjun Rao,+919876543222,Patanjali Honey 500g,Groceries,1,180.00,180.00,Debit Card,,,180.00,Rahul Verma,ST-138,RCP-000139,90,
+SALE-00139,2024-03-28,Neha Kapoor,+919876543223,Sunsilk Shampoo 200ml,Personal Care,1,150.00,150.00,Wallet,,,150.00,Sneha Patel,ST-139,RCP-000140,75,
+SALE-00140,2024-03-29,Sanjay Mishra,+919876543224,Nescafe Classic 100g,Beverages,1,120.00,120.00,Credit Card,,,120.00,Vikram Joshi,ST-140,RCP-000141,60,
+SALE-00141,2024-04-01,Rajesh Kumar,+919876543225,Organic Basmati Rice 5kg,Groceries,1,350.00,350.00,UPI,,,350.00,Amit Sharma,ST-141,RCP-000142,175,
+SALE-00142,2024-04-02,Priya Sharma,+919876543226,Tata Tea Gold 500g,Groceries,2,280.00,560.00,Cash,,,560.00,Priya Singh,ST-142,RCP-000143,280,
+SALE-00143,2024-04-03,Amit Patel,+919876543227,Amul Butter 500g,Groceries,1,120.00,120.00,Debit Card,,,120.00,Rahul Verma,ST-143,RCP-000144,60,
+SALE-00144,2024-04-04,Sneha Reddy,+919876543228,Colgate Total 100g,Personal Care,3,85.00,255.00,Wallet,,,255.00,Sneha Patel,ST-144,RCP-000145,127,
+SALE-00145,2024-04-05,Vikram Singh,+919876543229,Parle-G Biscuits 500g,Snacks,2,45.00,90.00,Credit Card,,,90.00,Vikram Joshi,ST-145,RCP-000146,45,
+SALE-00146,2024-04-06,Anita Desai,+919876543230,Maggi Noodles 70g,Snacks,10,12.00,120.00,UPI,,,120.00,Amit Sharma,ST-146,RCP-000147,60,Bulk purchase
+SALE-00147,2024-04-07,Rahul Verma,+919876543231,Himalaya Soap 125g,Personal Care,4,65.00,260.00,Cash,,,260.00,Priya Singh,ST-147,RCP-000148,130,
+SALE-00148,2024-04-08,Deepa Iyer,+919876543232,Dove Body Wash 250ml,Personal Care,2,240.00,480.00,Debit Card,,,480.00,Rahul Verma,ST-148,RCP-000149,240,
+SALE-00149,2024-04-09,Suresh Nair,+919876543233,Lay's Chips Classic 50g,Snacks,3,20.00,60.00,Wallet,,,60.00,Sneha Patel,ST-149,RCP-000150,30,
+SALE-00150,2024-04-10,Kavita Joshi,+919876543234,Tropicana Juice 1L,Beverages,5,90.00,450.00,Credit Card,,,450.00,Vikram Joshi,ST-150,RCP-000151,225,
+SALE-00151,2024-04-02,Rajesh Kumar,+919876543210,Organic Basmati Rice 5kg,Groceries,2,1250.00,2500.00,UPI,5.00,125.00,2375.00,Amit Sharma,ST-151,RCP-000151,125,Customer requested extra bag
+SALE-00152,2024-04-03,Priya Sharma,+919876543211,Tata Tea Gold 500g,Beverages,1,350.00,350.00,Cash,,,350.00,Priya Singh,ST-152,RCP-000152,35,
+SALE-00153,2024-04-04,Amit Patel,+919876543212,Amul Butter 500g,Groceries,3,60.00,180.00,Debit Card,10.00,18.00,162.00,Rahul Verma,ST-153,RCP-000153,18,Gift wrapping requested
+SALE-00154,2024-04-05,Sneha Reddy,+919876543213,Colgate Total 100g,Personal Care,2,140.00,280.00,Wallet,0.00,0.00,280.00,Sneha Patel,ST-154,RCP-000154,28,
+SALE-00155,2024-04-06,Vikram Singh,+919876543214,Parle-G Biscuits 500g,Snacks,5,45.00,225.00,Credit Card,15.00,33.75,191.25,Vikram Joshi,ST-155,RCP-000155,23,Bulk purchase for office
+SALE-00156,2024-04-07,Anita Desai,+919876543215,Maggi Noodles 70g,Snacks,10,12.00,120.00,UPI,5.00,6.00,114.00,Amit Sharma,ST-156,RCP-000156,12,
+SALE-00157,2024-04-08,Rahul Verma,+919876543216,Himalaya Soap 125g,Personal Care,4,55.00,220.00,Cash,,,220.00,Priya Singh,ST-157,RCP-000157,22,Loyalty member discount applied
+SALE-00158,2024-04-09,Deepa Iyer,+919876543217,Dove Body Wash 250ml,Personal Care,1,280.00,280.00,Debit Card,2.00,5.60,274.40,Rahul Verma,ST-158,RCP-000158,28,
+SALE-00159,2024-04-10,Suresh Nair,+919876543218,Lay's Chips Classic 50g,Snacks,3,25.00,75.00,Wallet,10.00,7.50,67.50,Sneha Patel,ST-159,RCP-000159,8,
+SALE-00160,2024-04-11,Kavita Joshi,+919876543219,Tropicana Juice 1L,Beverages,2,90.00,180.00,Credit Card,0.00,0.00,180.00,Vikram Joshi,ST-160,RCP-000160,18,
+SALE-00161,2024-04-12,Manoj Gupta,+919876543220,Cadbury Dairy Milk 50g,Snacks,6,65.00,390.00,UPI,5.00,19.50,370.50,Amit Sharma,ST-161,RCP-000161,39,Birthday party supplies
+SALE-00162,2024-04-13,Pooja Mehta,+919876543221,Britannia Bread 400g,Groceries,4,35.00,140.00,Cash,,,140.00,Priya Singh,ST-162,RCP-000162,14,
+SALE-00163,2024-04-14,Arjun Rao,+919876543222,Patanjali Honey 500g,Groceries,1,250.00,250.00,Debit Card,12.00,30.00,220.00,Rahul Verma,ST-163,RCP-000163,25,Organic certification verified
+SALE-00164,2024-04-15,Neha Kapoor,+919876543223,Sunsilk Shampoo 200ml,Personal Care,2,180.00,360.00,Wallet,8.00,28.80,331.20,Sneha Patel,ST-164,RCP-000164,36,
+SALE-00165,2024-04-16,Sanjay Mishra,+919876543224,Nescafe Classic 100g,Beverages,1,220.00,220.00,Credit Card,0.00,0.00,220.00,Vikram Joshi,ST-165,RCP-000165,22,Morning coffee stock
+SALE-00166,2024-04-17,Rajesh Kumar,+919876543225,Organic Basmati Rice 5kg,Groceries,1,1250.00,1250.00,UPI,10.00,125.00,1125.00,Amit Sharma,ST-166,RCP-000166,113,Repeat customer
+SALE-00167,2024-04-18,Priya Sharma,+919876543226,Tata Tea Gold 500g,Beverages,2,350.00,700.00,Cash,,,700.00,Priya Singh,ST-167,RCP-000167,70,
+SALE-00168,2024-04-19,Amit Patel,+919876543227,Amul Butter 500g,Groceries,5,60.00,300.00,Debit Card,5.00,15.00,285.00,Rahul Verma,ST-168,RCP-000168,30,Family gathering prep
+SALE-00169,2024-04-20,Sneha Reddy,+919876543228,Colgate Total 100g,Personal Care,3,140.00,420.00,Wallet,0.00,0.00,420.00,Sneha Patel,ST-169,RCP-000169,42,
+SALE-00170,2024-04-21,Vikram Singh,+919876543229,Parle-G Biscuits 500g,Snacks,8,45.00,360.00,Credit Card,10.00,36.00,324.00,Vikram Joshi,ST-170,RCP-000170,32,School event supply
+SALE-00171,2024-04-22,Anita Desai,+919876543230,Maggi Noodles 70g,Snacks,4,12.00,48.00,UPI,5.00,2.40,45.60,Amit Sharma,ST-171,RCP-000171,5,
+SALE-00172,2024-04-23,Rahul Verma,+919876543231,Himalaya Soap 125g,Personal Care,2,55.00,110.00,Cash,,,110.00,Priya Singh,ST-172,RCP-000172,11,Gift for colleague
+SALE-00173,2024-04-24,Deepa Iyer,+919876543232,Dove Body Wash 250ml,Personal Care,1,280.00,280.00,Debit Card,15.00,42.00,238.00,Rahul Verma,ST-173,RCP-000173,24,
+SALE-00174,2024-04-25,Suresh Nair,+919876543233,Lay's Chips Classic 50g,Snacks,6,25.00,150.00,Wallet,0.00,0.00,150.00,Sneha Patel,ST-174,RCP-000174,15,Movie night snacks
+SALE-00175,2024-04-26,Kavita Joshi,+919876543234,Tropicana Juice 1L,Beverages,3,90.00,270.00,Credit Card,8.00,21.60,248.40,Vikram Joshi,ST-175,RCP-000175,25,Healthy option choice
+SALE-00176,2024-03-15,Rajesh Kumar,+919876543210,Organic Basmati Rice 5kg,Groceries,2,450.00,900.00,UPI,5.00,45.00,855.00,Amit Sharma,ST-176,RCP-000176,45,Customer requested extra bagging
+SALE-00177,2024-03-16,Priya Sharma,+919876543211,Tata Tea Gold 500g,Beverages,1,250.00,250.00,Cash,0.00,0.00,250.00,Priya Singh,ST-177,RCP-000177,12,
+SALE-00178,2024-03-17,Amit Patel,+919876543212,Amul Butter 500g,Groceries,3,120.00,360.00,Debit Card,10.00,36.00,324.00,Rahul Verma,ST-178,RCP-000178,18,Gift wrapping requested
+SALE-00179,2024-03-18,Sneha Reddy,+919876543213,Colgate Total 100g,Personal Care,2,85.00,170.00,Wallet,0.00,0.00,170.00,Sneha Patel,ST-179,RCP-000179,8,
+SALE-00180,2024-03-19,Vikram Singh,+919876543214,Parle-G Biscuits 500g,Snacks,5,45.00,225.00,Credit Card,2.00,4.50,220.50,Vikram Joshi,ST-180,RCP-000180,11,Bulk purchase for office
+SALE-00181,2024-03-20,Anita Desai,+919876543215,Maggi Noodles 70g,Snacks,4,12.00,48.00,UPI,0.00,0.00,48.00,Amit Sharma,ST-181,RCP-000181,2,
+SALE-00182,2024-03-21,Rahul Verma,+919876543216,Himalaya Soap 125g,Personal Care,1,65.00,65.00,Cash,15.00,9.75,55.25,Priya Singh,ST-182,RCP-000182,3,Sensitive skin product request
+SALE-00183,2024-03-22,Deepa Iyer,+919876543217,Dove Body Wash 250ml,Personal Care,1,220.00,220.00,Debit Card,0.00,0.00,220.00,Rahul Verma,ST-183,RCP-000183,15,
+SALE-00184,2024-03-23,Suresh Nair,+919876543218,Lay's Chips Classic 50g,Snacks,6,25.00,150.00,Wallet,5.00,7.50,142.50,Sneha Patel,ST-184,RCP-000184,7,Party snacks order
+SALE-00185,2024-03-24,Kavita Joshi,+919876543219,Tropicana Juice 1L,Beverages,2,95.00,190.00,Credit Card,0.00,0.00,190.00,Vikram Joshi,ST-185,RCP-000185,9,
+SALE-00186,2024-03-25,Manoj Gupta,+919876543220,Cadbury Dairy Milk 50g,Snacks,3,55.00,165.00,UPI,0.00,0.00,165.00,Amit Sharma,ST-186,RCP-000186,5,Birthday gift purchase
+SALE-00187,2024-03-26,Pooja Mehta,+919876543221,Britannia Bread 400g,Groceries,2,40.00,80.00,Cash,0.00,0.00,80.00,Priya Singh,ST-187,RCP-000187,4,
+SALE-00188,2024-03-27,Arjun Rao,+919876543222,Patanjali Honey 500g,Groceries,1,350.00,350.00,Debit Card,8.00,28.00,322.00,Rahul Verma,ST-188,RCP-000188,20,Organic certification requested
+SALE-00189,2024-03-28,Neha Kapoor,+919876543223,Sunsilk Shampoo 200ml,Personal Care,1,180.00,180.00,Wallet,0.00,0.00,180.00,Sneha Patel,ST-189,RCP-000189,6,
+SALE-00190,2024-03-29,Sanjay Mishra,+919876543224,Nescafe Classic 100g,Beverages,2,140.00,280.00,Credit Card,0.00,0.00,280.00,Vikram Joshi,ST-190,RCP-000190,10,Morning coffee stock
+SALE-00191,2024-03-30,Rajesh Kumar,+919876543225,Organic Basmati Rice 5kg,Groceries,1,450.00,450.00,UPI,0.00,0.00,450.00,Amit Sharma,ST-191,RCP-000191,22,
+SALE-00192,2024-03-31,Priya Sharma,+919876543226,Tata Tea Gold 500g,Beverages,2,250.00,500.00,Cash,12.00,60.00,440.00,Priya Singh,ST-192,RCP-000192,14,Tea festival discount applied
+SALE-00193,2024-04-01,Amit Patel,+919876543227,Amul Butter 500g,Groceries,4,120.00,480.00,Debit Card,0.00,0.00,480.00,Rahul Verma,ST-193,RCP-000193,16,
+SALE-00194,2024-04-02,Sneha Reddy,+919876543228,Colgate Total 100g,Personal Care,3,85.00,255.00,Wallet,5.00,12.75,242.25,Sneha Patel,ST-194,RCP-000194,9,Family pack purchase
+SALE-00195,2024-04-03,Vikram Singh,+919876543229,Parle-G Biscuits 500g,Snacks,2,45.00,90.00,Credit Card,0.00,0.00,90.00,Vikram Joshi,ST-195,RCP-000195,3,
+SALE-00196,2024-04-04,Anita Desai,+919876543230,Maggi Noodles 70g,Snacks,5,12.00,60.00,UPI,0.00,0.00,60.00,Amit Sharma,ST-196,RCP-000196,2,Quick dinner solution
+SALE-00197,2024-04-05,Rahul Verma,+919876543231,Himalaya Soap 125g,Personal Care,2,65.00,130.00,Cash,0.00,0.00,130.00,Priya Singh,ST-197,RCP-000197,5,
+SALE-00198,2024-04-06,Deepa Iyer,+919876543232,Dove Body Wash 250ml,Personal Care,1,220.00,220.00,Debit Card,10.00,22.00,198.00,Rahul Verma,ST-198,RCP-000198,11,Hygiene essentials restock
+SALE-00199,2024-04-07,Suresh Nair,+919876543233,Lay's Chips Classic 50g,Snacks,8,25.00,200.00,Wallet,0.00,0.00,200.00,Sneha Patel,ST-199,RCP-000199,8,Event catering supply
+SALE-00200,2024-04-08,Kavita Joshi,+919876543234,Tropicana Juice 1L,Beverages,3,95.00,285.00,Credit Card,0.00,0.00,285.00,Vikram Joshi,ST-200,RCP-000200,13,
+SALE-00201,2024-05-02,Rajesh Kumar,+919876543201,Organic Basmati Rice 5kg,Groceries,2,450.00,900.00,UPI,5.00,45.00,855.00,Amit Sharma,ST-201,RCP-000201,100,Customer requested extra bagging
+SALE-00202,2024-05-03,Priya Sharma,+919876543202,Tata Tea Gold 500g,Beverages,1,180.00,180.00,Cash,,,180.00,Priya Singh,ST-202,RCP-000202,20,
+SALE-00203,2024-05-04,Amit Patel,+919876543203,Amul Butter 500g,Groceries,3,65.00,195.00,Debit Card,10.00,19.50,175.50,Rahul Verma,ST-203,RCP-000203,45,Gift wrapped
+SALE-00204,2024-05-05,Sneha Reddy,+919876543204,Colgate Total 100g,Personal Care,2,120.00,240.00,Wallet,0.00,0.00,240.00,Sneha Patel,ST-204,RCP-000204,60,
+SALE-00205,2024-05-06,Vikram Singh,+919876543205,Parle-G Biscuits 500g,Snacks,5,45.00,225.00,Credit Card,15.00,33.75,191.25,Vikram Joshi,ST-205,RCP-000205,80,Bulk purchase for office
+SALE-00206,2024-05-07,Anita Desai,+919876543206,Maggi Noodles 70g,Snacks,4,12.00,48.00,UPI,,,48.00,Amit Sharma,ST-206,RCP-000206,15,
+SALE-00207,2024-05-08,Rahul Verma,+919876543207,Himalaya Soap 125g,Personal Care,2,85.00,170.00,Cash,5.00,8.50,161.50,Priya Singh,ST-207,RCP-000207,30,Loyalty member discount applied
+SALE-00208,2024-05-09,Deepa Iyer,+919876543208,Dove Body Wash 250ml,Personal Care,1,250.00,250.00,Debit Card,,,250.00,Rahul Verma,ST-208,RCP-000208,50,
+SALE-00209,2024-05-10,Suresh Nair,+919876543209,Lay's Chips Classic 50g,Snacks,6,25.00,150.00,Wallet,20.00,30.00,120.00,Sneha Patel,ST-209,RCP-000209,25,Promotional offer
+SALE-00210,2024-05-11,Kavita Joshi,+919876543210,Tropicana Juice 1L,Beverages,2,110.00,220.00,Credit Card,,,220.00,Vikram Joshi,ST-210,RCP-000210,40,
+SALE-00211,2024-05-12,Manoj Gupta,+919876543211,Cadbury Dairy Milk 50g,Snacks,3,60.00,180.00,UPI,10.00,18.00,162.00,Amit Sharma,ST-211,RCP-000211,35,Birthday treat
+SALE-00212,2024-05-13,Pooja Mehta,+919876543212,Britannia Bread 400g,Groceries,2,55.00,110.00,Cash,,,110.00,Priya Singh,ST-212,RCP-000212,20,
+SALE-00213,2024-05-14,Arjun Rao,+919876543213,Patanjali Honey 500g,Groceries,1,280.00,280.00,Debit Card,5.00,14.00,266.00,Rahul Verma,ST-213,RCP-000213,55,Natural product
+SALE-00214,2024-05-15,Neha Kapoor,+919876543214,Sunsilk Shampoo 200ml,Personal Care,2,140.00,280.00,Wallet,,,280.00,Sneha Patel,ST-214,RCP-000214,60,
+SALE-00215,2024-05-16,Sanjay Mishra,+919876543215,Nescafe Classic 100g,Beverages,1,190.00,190.00,Credit Card,15.00,28.50,161.50,Vikram Joshi,ST-215,RCP-000215,40,Morning brew
+SALE-00216,2024-05-17,Rajesh Kumar,+919876543216,Organic Basmati Rice 5kg,Groceries,1,450.00,450.00,UPI,,,450.00,Amit Sharma,ST-216,RCP-000216,90,
+SALE-00217,2024-05-18,Priya Sharma,+919876543217,Tata Tea Gold 500g,Beverages,2,180.00,360.00,Cash,10.00,36.00,324.00,Priya Singh,ST-217,RCP-000217,70,Family pack
+SALE-00218,2024-05-19,Amit Patel,+919876543218,Amul Butter 500g,Groceries,1,65.00,65.00,Debit Card,,,65.00,Rahul Verma,ST-218,RCP-000218,15,
+SALE-00219,2024-05-20,Sneha Reddy,+919876543219,Colgate Total 100g,Personal Care,3,120.00,360.00,Wallet,5.00,18.00,342.00,Sneha Patel,ST-219,RCP-000219,75,Dental care kit
+SALE-00220,2024-05-21,Vikram Singh,+919876543220,Parle-G Biscuits 500g,Snacks,2,45.00,90.00,Credit Card,,,90.00,Vikram Joshi,ST-220,RCP-000220,20,
+SALE-00221,2024-05-22,Anita Desai,+919876543221,Maggi Noodles 70g,Snacks,5,12.00,60.00,UPI,20.00,12.00,48.00,Amit Sharma,ST-221,RCP-000221,10,Quick meal
+SALE-00222,2024-05-23,Rahul Verma,+919876543222,Himalaya Soap 125g,Personal Care,1,85.00,85.00,Cash,,,85.00,Priya Singh,ST-222,RCP-000222,15,
+SALE-00223,2024-05-24,Deepa Iyer,+919876543223,Dove Body Wash 250ml,Personal Care,2,250.00,500.00,Debit Card,10.00,50.00,450.00,Rahul Verma,ST-223,RCP-000223,100,Spa day
+SALE-00224,2024-05-25,Suresh Nair,+919876543224,Lay's Chips Classic 50g,Snacks,4,25.00,100.00,Wallet,,,100.00,Sneha Patel,ST-224,RCP-000224,25,
+SALE-00225,2024-05-26,Kavita Joshi,+919876543225,Tropicana Juice 1L,Beverages,3,110.00,330.00,Credit Card,5.00,16.50,313.50,Vikram Joshi,ST-225,RCP-000225,65,Party supplies
+SALE-00226,2024-03-12,Rajesh Kumar,+919876543210,Organic Basmati Rice 5kg,Groceries,2,850.00,1700.00,UPI,5.00,85.00,1615.00,Amit Sharma,ST-226,RCP-000226,85,Customer requested extra bagging
+SALE-00227,2024-03-14,Priya Sharma,+919876543211,Tata Tea Gold 500g,Beverages,1,450.00,450.00,Cash,,,450.00,Priya Singh,ST-227,RCP-000227,22,
+SALE-00228,2024-03-15,Amit Patel,+919876543212,Amul Butter 500g,Groceries,3,280.00,840.00,Debit Card,2.50,21.00,819.00,Rahul Verma,ST-228,RCP-000228,42,Gift wrapped for birthday
+SALE-00229,2024-03-16,Sneha Reddy,+919876543213,Colgate Total 100g,Personal Care,1,120.00,120.00,Wallet,,,120.00,Sneha Patel,ST-229,RCP-000229,6,
+SALE-00230,2024-03-17,Vikram Singh,+919876543214,Parle-G Biscuits 500g,Snacks,4,45.00,180.00,Credit Card,10.00,18.00,162.00,Vikram Joshi,ST-230,RCP-000230,9,
+SALE-00231,2024-03-18,Anita Desai,+919876543215,Maggi Noodles 70g,Snacks,5,15.00,75.00,UPI,0.00,0.00,75.00,Amit Sharma,ST-231,RCP-000231,4,
+SALE-00232,2024-03-19,Rahul Verma,+919876543216,Himalaya Soap 125g,Personal Care,2,65.00,130.00,Cash,,,130.00,Priya Singh,ST-232,RCP-000232,7,
+SALE-00233,2024-03-20,Deepa Iyer,+919876543217,Dove Body Wash 250ml,Personal Care,1,320.00,320.00,Debit Card,15.00,48.00,272.00,Rahul Verma,ST-233,RCP-000233,16,Loyalty member discount applied
+SALE-00234,2024-03-21,Suresh Nair,+919876543218,Lay's Chips Classic 50g,Snacks,6,25.00,150.00,Wallet,5.00,7.50,142.50,Sneha Patel,ST-234,RCP-000234,8,
+SALE-00235,2024-03-22,Kavita Joshi,+919876543219,Tropicana Juice 1L,Beverages,2,95.00,190.00,Credit Card,,,190.00,Vikram Joshi,ST-235,RCP-000235,10,
+SALE-00236,2024-03-23,Manoj Gupta,+919876543220,Cadbury Dairy Milk 50g,Snacks,3,110.00,330.00,UPI,8.00,26.40,303.60,Amit Sharma,ST-236,RCP-000236,17,
+SALE-00237,2024-03-24,Pooja Mehta,+919876543221,Britannia Bread 400g,Groceries,2,55.00,110.00,Cash,,,110.00,Priya Singh,ST-237,RCP-000237,6,
+SALE-00238,2024-03-25,Arjun Rao,+919876543222,Patanjali Honey 500g,Groceries,1,420.00,420.00,Debit Card,3.00,12.60,407.40,Rahul Verma,ST-238,RCP-000238,21,Organic certified product
+SALE-00239,2024-03-26,Neha Kapoor,+919876543223,Sunsilk Shampoo 200ml,Personal Care,1,180.00,180.00,Wallet,,,180.00,Sneha Patel,ST-239,RCP-000239,9,
+SALE-00240,2024-03-27,Sanjay Mishra,+919876543224,Nescafe Classic 100g,Beverages,2,210.00,420.00,Credit Card,12.00,50.40,369.60,Vikram Joshi,ST-240,RCP-000240,21,
+SALE-00241,2024-03-28,Rajesh Kumar,+919876543225,Organic Basmati Rice 5kg,Groceries,1,850.00,850.00,UPI,,,850.00,Amit Sharma,ST-241,RCP-000241,43,
+SALE-00242,2024-03-29,Priya Sharma,+919876543226,Tata Tea Gold 500g,Beverages,2,450.00,900.00,Cash,4.00,36.00,864.00,Priya Singh,ST-242,RCP-000242,45,
+SALE-00243,2024-03-30,Amit Patel,+919876543227,Amul Butter 500g,Groceries,1,280.00,280.00,Debit Card,,,280.00,Rahul Verma,ST-243,RCP-000243,14,
+SALE-00244,2024-03-31,Sneha Reddy,+919876543228,Colgate Total 100g,Personal Care,2,120.00,240.00,Wallet,6.00,14.40,225.60,Sneha Patel,ST-244,RCP-000244,12,
+SALE-00245,2024-04-01,Vikram Singh,+919876543229,Parle-G Biscuits 500g,Snacks,3,45.00,135.00,Credit Card,,,135.00,Vikram Joshi,ST-245,RCP-000245,7,
+SALE-00246,2024-04-02,Anita Desai,+919876543230,Maggi Noodles 70g,Snacks,4,15.00,60.00,UPI,2.00,1.20,58.80,Amit Sharma,ST-246,RCP-000246,3,
+SALE-00247,2024-04-03,Rahul Verma,+919876543231,Himalaya Soap 125g,Personal Care,1,65.00,65.00,Cash,,,65.00,Priya Singh,ST-247,RCP-000247,3,
+SALE-00248,2024-04-04,Deepa Iyer,+919876543232,Dove Body Wash 250ml,Personal Care,1,320.00,320.00,Debit Card,7.50,24.00,296.00,Rahul Verma,ST-248,RCP-000248,16,
+SALE-00249,2024-04-05,Suresh Nair,+919876543233,Lay's Chips Classic 50g,Snacks,2,25.00,50.00,Wallet,,,50.00,Sneha Patel,ST-249,RCP-000249,3,
+SALE-00250,2024-04-06,Kavita Joshi,+919876543234,Tropicana Juice 1L,Beverages,3,95.00,285.00,Credit Card,10.00,28.50,256.50,Vikram Joshi,ST-250,RCP-000250,14,Bulk purchase for office event
+SALE-00251,2024-06-15,Rajesh Kumar,+919876543201,Organic Basmati Rice 5kg,Groceries,2,1200.00,2400.00,UPI,,,2400.00,Amit Sharma,ST-251,RCP-000251,120,Customer requested extra bag
+SALE-00252,2024-06-16,Priya Sharma,+919876543202,Tata Tea Gold 500g,Beverages,1,350.00,350.00,Cash,5.00,17.50,332.50,Priya Singh,ST-252,RCP-000252,35,
+SALE-00253,2024-06-17,Amit Patel,+919876543203,Amul Butter 500g,Groceries,3,280.00,840.00,Credit Card,,,840.00,Rahul Verma,ST-253,RCP-000253,84,
+SALE-00254,2024-06-18,Sneha Reddy,+919876543204,Colgate Total 100g,Personal Care,2,120.00,240.00,Debit Card,10.00,24.00,216.00,Sneha Patel,ST-254,RCP-000254,24,
+SALE-00255,2024-06-19,Vikram Singh,+919876543205,Parle-G Biscuits 500g,Snacks,5,45.00,225.00,Wallet,,,225.00,Vikram Joshi,ST-255,RCP-000255,22,
+SALE-00256,2024-06-20,Anita Desai,+919876543206,Maggi Noodles 70g,Snacks,4,12.00,48.00,Cash,,,48.00,Amit Sharma,ST-256,RCP-000256,5,
+SALE-00257,2024-06-21,Rahul Verma,+919876543207,Himalaya Soap 125g,Personal Care,2,85.00,170.00,UPI,15.00,25.50,144.50,Priya Singh,ST-257,RCP-000257,17,Gift wrap requested
+SALE-00258,2024-06-22,Deepa Iyer,+919876543208,Dove Body Wash 250ml,Personal Care,1,320.00,320.00,Credit Card,,,320.00,Rahul Verma,ST-258,RCP-000258,32,
+SALE-00259,2024-06-23,Suresh Nair,+919876543209,Lay's Chips Classic 50g,Snacks,3,25.00,75.00,Debit Card,,,75.00,Sneha Patel,ST-259,RCP-000259,8,
+SALE-00260,2024-06-24,Kavita Joshi,+919876543210,Tropicana Juice 1L,Beverages,2,110.00,220.00,Wallet,5.00,11.00,209.00,Vikram Joshi,ST-260,RCP-000260,22,
+SALE-00261,2024-06-25,Manoj Gupta,+919876543211,Cadbury Dairy Milk 50g,Snacks,6,60.00,360.00,Cash,,,360.00,Amit Sharma,ST-261,RCP-000261,36,
+SALE-00262,2024-06-26,Pooja Mehta,+919876543212,Britannia Bread 400g,Groceries,2,55.00,110.00,UPI,,,110.00,Priya Singh,ST-262,RCP-000262,11,
+SALE-00263,2024-06-27,Arjun Rao,+919876543213,Patanjali Honey 500g,Groceries,1,450.00,450.00,Credit Card,10.00,45.00,405.00,Rahul Verma,ST-263,RCP-000263,45,
+SALE-00264,2024-06-28,Neha Kapoor,+919876543214,Sunsilk Shampoo 200ml,Personal Care,2,180.00,360.00,Debit Card,,,360.00,Sneha Patel,ST-264,RCP-000264,36,
+SALE-00265,2024-06-29,Sanjay Mishra,+919876543215,Nescafe Classic 100g,Beverages,1,220.00,220.00,Wallet,,,220.00,Vikram Joshi,ST-265,RCP-000265,22,
+SALE-00266,2024-07-01,Rajesh Kumar,+919876543216,Organic Basmati Rice 5kg,Groceries,1,1200.00,1200.00,Cash,,,1200.00,Amit Sharma,ST-266,RCP-000266,120,
+SALE-00267,2024-07-02,Priya Sharma,+919876543217,Tata Tea Gold 500g,Beverages,2,350.00,700.00,UPI,20.00,140.00,560.00,Priya Singh,ST-267,RCP-000267,56,Bulk purchase discount applied
+SALE-00268,2024-07-03,Amit Patel,+919876543218,Amul Butter 500g,Groceries,1,280.00,280.00,Credit Card,,,280.00,Rahul Verma,ST-268,RCP-000268,28,
+SALE-00269,2024-07-04,Sneha Reddy,+919876543219,Colgate Total 100g,Personal Care,3,120.00,360.00,Debit Card,,,360.00,Sneha Patel,ST-269,RCP-000269,36,
+SALE-00270,2024-07-05,Vikram Singh,+919876543220,Parle-G Biscuits 500g,Snacks,2,45.00,90.00,Wallet,,,90.00,Vikram Joshi,ST-270,RCP-000270,9,
+SALE-00271,2024-07-06,Anita Desai,+919876543221,Maggi Noodles 70g,Snacks,10,12.00,120.00,Cash,,,120.00,Amit Sharma,ST-271,RCP-000271,12,
+SALE-00272,2024-07-07,Rahul Verma,+919876543222,Himalaya Soap 125g,Personal Care,4,85.00,340.00,UPI,5.00,17.00,323.00,Priya Singh,ST-272,RCP-000272,34,
+SALE-00273,2024-07-08,Deepa Iyer,+919876543223,Dove Body Wash 250ml,Personal Care,1,320.00,320.00,Credit Card,,,320.00,Rahul Verma,ST-273,RCP-000273,32,
+SALE-00274,2024-07-09,Suresh Nair,+919876543224,Lay's Chips Classic 50g,Snacks,2,25.00,50.00,Debit Card,,,50.00,Sneha Patel,ST-274,RCP-000274,5,
+SALE-00275,2024-07-10,Kavita Joshi,+919876543225,Tropicana Juice 1L,Beverages,3,110.00,330.00,Wallet,10.00,33.00,297.00,Vikram Joshi,ST-275,RCP-000275,33,Customer loyalty member
+SALE-00276,2024-02-15,Rajesh Kumar,+919876543210,Organic Basmati Rice 5kg,Groceries,2,450.00,900.00,UPI,5.00,45.00,855.00,Amit Sharma,ST-276,RCP-000276,450,Customer requested extra bag
+SALE-00277,2024-02-16,Priya Sharma,+919876543211,Tata Tea Gold 500g,Groceries,1,250.00,250.00,Cash,0.00,0.00,250.00,Priya Singh,ST-277,RCP-000277,125,
+SALE-00278,2024-02-17,Amit Patel,+919876543212,Amul Butter 500g,Groceries,3,180.00,540.00,Debit Card,10.00,54.00,486.00,Rahul Verma,ST-278,RCP-000278,270,
+SALE-00279,2024-02-18,Sneha Reddy,+919876543213,Colgate Total 100g,Personal Care,2,120.00,240.00,Credit Card,0.00,0.00,240.00,Sneha Patel,ST-279,RCP-000279,120,Bought for family
+SALE-00280,2024-02-19,Vikram Singh,+919876543214,Parle-G Biscuits 500g,Snacks,5,80.00,400.00,Wallet,15.00,60.00,340.00,Vikram Joshi,ST-280,RCP-000280,170,Bulk purchase
+SALE-00281,2024-02-20,Anita Desai,+919876543215,Maggi Noodles 70g,Snacks,10,15.00,150.00,UPI,0.00,0.00,150.00,Amit Sharma,ST-281,RCP-000281,75,
+SALE-00282,2024-02-21,Rahul Verma,+919876543216,Himalaya Soap 125g,Personal Care,4,45.00,180.00,Cash,5.00,9.00,171.00,Priya Singh,ST-282,RCP-000282,90,
+SALE-00283,2024-02-22,Deepa Iyer,+919876543217,Dove Body Wash 250ml,Personal Care,1,350.00,350.00,Debit Card,0.00,0.00,350.00,Rahul Verma,ST-283,RCP-000283,175,Gift for sister
+SALE-00284,2024-02-23,Suresh Nair,+919876543218,Lay's Chips Classic 50g,Snacks,6,30.00,180.00,Credit Card,10.00,18.00,162.00,Sneha Patel,ST-284,RCP-000284,81,
+SALE-00285,2024-02-24,Kavita Joshi,+919876543219,Tropicana Juice 1L,Beverages,2,120.00,240.00,Wallet,0.00,0.00,240.00,Vikram Joshi,ST-285,RCP-000285,120,
+SALE-00286,2024-02-25,Manoj Gupta,+919876543220,Cadbury Dairy Milk 50g,Snacks,3,60.00,180.00,UPI,5.00,9.00,171.00,Amit Sharma,ST-286,RCP-000286,90,Kids favorite
+SALE-00287,2024-02-26,Pooja Mehta,+919876543221,Britannia Bread 400g,Groceries,4,55.00,220.00,Cash,0.00,0.00,220.00,Priya Singh,ST-287,RCP-000287,110,
+SALE-00288,2024-02-27,Arjun Rao,+919876543222,Patanjali Honey 500g,Groceries,1,400.00,400.00,Debit Card,0.00,0.00,400.00,Rahul Verma,ST-288,RCP-000288,200,Organic certified
+SALE-00289,2024-02-28,Neha Kapoor,+919876543223,Sunsilk Shampoo 200ml,Personal Care,2,200.00,400.00,Credit Card,15.00,60.00,340.00,Sneha Patel,ST-289,RCP-000289,170,
+SALE-00290,2024-03-01,Sanjay Mishra,+919876543224,Nescafe Classic 100g,Beverages,1,180.00,180.00,Wallet,0.00,0.00,180.00,Vikram Joshi,ST-290,RCP-000290,90,
+SALE-00291,2024-03-02,Rajesh Kumar,+919876543225,Organic Basmati Rice 5kg,Groceries,1,450.00,450.00,UPI,5.00,22.50,427.50,Amit Sharma,ST-291,RCP-000291,215,Repeat customer
+SALE-00292,2024-03-03,Priya Sharma,+919876543226,Tata Tea Gold 500g,Groceries,2,250.00,500.00,Cash,0.00,0.00,500.00,Priya Singh,ST-292,RCP-000292,250,
+SALE-00293,2024-03-04,Amit Patel,+919876543227,Amul Butter 500g,Groceries,1,180.00,180.00,Debit Card,10.00,18.00,162.00,Rahul Verma,ST-293,RCP-000293,81,
+SALE-00294,2024-03-05,Sneha Reddy,+919876543228,Colgate Total 100g,Personal Care,5,120.00,600.00,Credit Card,0.00,0.00,600.00,Sneha Patel,ST-294,RCP-000294,300,Stock up
+SALE-00295,2024-03-06,Vikram Singh,+919876543229,Parle-G Biscuits 500g,Snacks,2,80.00,160.00,Wallet,15.00,24.00,136.00,Vikram Joshi,ST-295,RCP-000295,68,
+SALE-00296,2024-03-07,Anita Desai,+919876543230,Maggi Noodles 70g,Snacks,8,15.00,120.00,UPI,0.00,0.00,120.00,Amit Sharma,ST-296,RCP-000296,60,
+SALE-00297,2024-03-08,Rahul Verma,+919876543231,Himalaya Soap 125g,Personal Care,3,45.00,135.00,Cash,5.00,6.75,128.25,Priya Singh,ST-297,RCP-000297,65,
+SALE-00298,2024-03-09,Deepa Iyer,+919876543232,Dove Body Wash 250ml,Personal Care,1,350.00,350.00,Debit Card,0.00,0.00,350.00,Rahul Verma,ST-298,RCP-000298,175,
+SALE-00299,2024-03-10,Suresh Nair,+919876543233,Lay's Chips Classic 50g,Snacks,4,30.00,120.00,Credit Card,10.00,12.00,108.00,Sneha Patel,ST-299,RCP-000299,54,Party snacks
+SALE-00300,2024-03-11,Kavita Joshi,+919876543234,Tropicana Juice 1L,Beverages,3,120.00,360.00,Wallet,0.00,0.00,360.00,Vikram Joshi,ST-300,RCP-000300,180,
+SALE-00301,2024-07-15,Rajesh Kumar,+919876543201,Organic Basmati Rice 5kg,Groceries,2,1200.00,2400.00,UPI,5.00,120.00,2280.00,Amit Sharma,ST-301,RCP-000301,240,Customer requested extra bagging
+SALE-00302,2024-07-16,Priya Sharma,+919876543202,Tata Tea Gold 500g,Beverages,1,450.00,450.00,Cash,,,450.00,Priya Singh,ST-302,RCP-000302,45,
+SALE-00303,2024-07-17,Amit Patel,+919876543203,Amul Butter 500g,Groceries,3,280.00,840.00,Credit Card,10.00,84.00,756.00,Rahul Verma,ST-303,RCP-000303,84,Fresh stock arrival noted
+SALE-00304,2024-07-18,Sneha Reddy,+919876543204,Colgate Total 100g,Personal Care,2,180.00,360.00,Debit Card,0.00,0.00,360.00,Sneha Patel,ST-304,RCP-000304,36,
+SALE-00305,2024-07-19,Vikram Singh,+919876543205,Parle-G Biscuits 500g,Snacks,5,90.00,450.00,Wallet,15.00,67.50,382.50,Vikram Joshi,ST-305,RCP-000305,45,Bulk purchase for office party
+SALE-00306,2024-07-20,Anita Desai,+919876543206,Maggi Noodles 70g,Snacks,4,120.00,480.00,UPI,2.00,9.60,470.40,Amit Sharma,ST-306,RCP-000306,48,
+SALE-00307,2024-07-21,Rahul Verma,+919876543207,Himalaya Soap 125g,Personal Care,1,150.00,150.00,Cash,,,150.00,Priya Singh,ST-307,RCP-000307,15,
+SALE-00308,2024-07-22,Deepa Iyer,+919876543208,Dove Body Wash 250ml,Personal Care,1,320.00,320.00,Credit Card,8.00,25.60,294.40,Rahul Verma,ST-308,RCP-000308,32,Gift wrapped item requested
+SALE-00309,2024-07-23,Suresh Nair,+919876543209,Lay's Chips Classic 50g,Snacks,6,80.00,480.00,Debit Card,5.00,24.00,456.00,Sneha Patel,ST-309,RCP-000309,48,
+SALE-00310,2024-07-24,Kavita Joshi,+919876543210,Tropicana Juice 1L,Beverages,2,220.00,440.00,Wallet,10.00,44.00,396.00,Vikram Joshi,ST-310,RCP-000310,44,
+SALE-00311,2024-07-25,Manoj Gupta,+919876543211,Cadbury Dairy Milk 50g,Snacks,3,160.00,480.00,UPI,0.00,0.00,480.00,Amit Sharma,ST-311,RCP-000311,48,Birthday treat for son
+SALE-00312,2024-07-26,Pooja Mehta,+919876543212,Britannia Bread 400g,Groceries,2,110.00,220.00,Cash,20.00,44.00,176.00,Priya Singh,ST-312,RCP-000312,22,
+SALE-00313,2024-07-27,Arjun Rao,+919876543213,Patanjali Honey 500g,Groceries,1,550.00,550.00,Credit Card,,,550.00,Rahul Verma,ST-313,RCP-000313,55,Organic certification checked
+SALE-00314,2024-07-28,Neha Kapoor,+919876543214,Sunsilk Shampoo 200ml,Personal Care,2,240.00,480.00,Debit Card,5.00,24.00,456.00,Sneha Patel,ST-314,RCP-000314,48,
+SALE-00315,2024-07-29,Sanjay Mishra,+919876543215,Nescafe Classic 100g,Beverages,1,380.00,380.00,Wallet,12.00,45.60,334.40,Vikram Joshi,ST-315,RCP-000315,38,Morning coffee stock up
+SALE-00316,2024-07-30,Rajesh Kumar,+919876543216,Organic Basmati Rice 5kg,Groceries,1,1200.00,1200.00,UPI,0.00,0.00,1200.00,Amit Sharma,ST-316,RCP-000316,120,
+SALE-00317,2024-08-01,Priya Sharma,+919876543217,Tata Tea Gold 500g,Beverages,2,450.00,900.00,Cash,15.00,135.00,765.00,Priya Singh,ST-317,RCP-000317,90,Family pack purchase
+SALE-00318,2024-08-02,Amit Patel,+919876543218,Amul Butter 500g,Groceries,1,280.00,280.00,Credit Card,,,280.00,Rahul Verma,ST-318,RCP-000318,28,
+SALE-00319,2024-08-03,Sneha Reddy,+919876543219,Colgate Total 100g,Personal Care,3,180.00,540.00,Debit Card,10.00,54.00,486.00,Sneha Patel,ST-319,RCP-000319,54,Dental care bundle
+SALE-00320,2024-08-04,Vikram Singh,+919876543220,Parle-G Biscuits 500g,Snacks,2,90.00,180.00,Wallet,5.00,9.00,171.00,Vikram Joshi,ST-320,RCP-000320,18,
+SALE-00321,2024-08-05,Anita Desai,+919876543221,Maggi Noodles 70g,Snacks,5,120.00,600.00,UPI,8.00,48.00,552.00,Amit Sharma,ST-321,RCP-000321,60,Quick dinner solution
+SALE-00322,2024-08-06,Rahul Verma,+919876543222,Himalaya Soap 125g,Personal Care,4,150.00,600.00,Cash,0.00,0.00,600.00,Priya Singh,ST-322,RCP-000322,60,
+SALE-00323,2024-08-07,Deepa Iyer,+919876543223,Dove Body Wash 250ml,Personal Care,1,320.00,320.00,Credit Card,20.00,64.00,256.00,Rahul Verma,ST-323,RCP-000323,32,Summer sale item
+SALE-00324,2024-08-08,Suresh Nair,+919876543224,Lay's Chips Classic 50g,Snacks,3,80.00,240.00,Debit Card,,,240.00,Sneha Patel,ST-324,RCP-000324,24,
+SALE-00325,2024-08-09,Kavita Joshi,+919876543225,Tropicana Juice 1L,Beverages,4,220.00,880.00,Wallet,10.00,88.00,792.00,Vikram Joshi,ST-325,RCP-000325,88,Party refreshments
+SALE-00326,2024-06-14,Rajesh Kumar,+919876543210,Organic Basmati Rice 5kg,Groceries,2,450.00,900.00,UPI,5.00,45.00,855.00,Amit Sharma,ST-326,RCP-000326,450,Customer requested extra packaging
+SALE-00327,2024-06-15,Priya Sharma,+919876543211,Tata Tea Gold 500g,Groceries,1,320.00,320.00,Cash,0.00,0.00,320.00,Priya Singh,ST-327,RCP-000327,160,
+SALE-00328,2024-06-16,Amit Patel,+919876543212,Amul Butter 500g,Groceries,3,280.00,840.00,Debit Card,10.00,84.00,756.00,Rahul Verma,ST-328,RCP-000328,378,Loyalty member discount applied
+SALE-00329,2024-06-17,Sneha Reddy,+919876543213,Colgate Total 100g,Personal Care,2,145.00,290.00,UPI,0.00,0.00,290.00,Sneha Patel,ST-329,RCP-000329,145,
+SALE-00330,2024-06-18,Vikram Singh,+919876543214,Parle-G Biscuits 500g,Snacks,5,85.00,425.00,Wallet,15.00,63.75,361.25,Vikram Joshi,ST-330,RCP-000330,181,Bulk purchase for office party
+SALE-00331,2024-06-19,Anita Desai,+919876543215,Maggi Noodles 70g,Snacks,4,12.00,48.00,Cash,0.00,0.00,48.00,Amit Sharma,ST-331,RCP-000331,24,
+SALE-00332,2024-06-20,Rahul Verma,+919876543216,Himalaya Soap 125g,Personal Care,1,95.00,95.00,Credit Card,5.00,4.75,90.25,Priya Singh,ST-332,RCP-000332,45,Gift wrap requested
+SALE-00333,2024-06-21,Deepa Iyer,+919876543217,Dove Body Wash 250ml,Personal Care,1,450.00,450.00,UPI,0.00,0.00,450.00,Rahul Verma,ST-333,RCP-000333,225,
+SALE-00334,2024-06-22,Suresh Nair,+919876543218,Lay's Chips Classic 50g,Snacks,6,25.00,150.00,Debit Card,10.00,15.00,135.00,Sneha Patel,ST-334,RCP-000334,68,Quick snack purchase
+SALE-00335,2024-06-23,Kavita Joshi,+919876543219,Tropicana Juice 1L,Beverages,2,180.00,360.00,Wallet,0.00,0.00,360.00,Vikram Joshi,ST-335,RCP-000335,180,
+SALE-00336,2024-06-24,Manoj Gupta,+919876543220,Cadbury Dairy Milk 50g,Snacks,3,110.00,330.00,Cash,5.00,16.50,313.50,Amit Sharma,ST-336,RCP-000336,157,Birthday treat for child
+SALE-00337,2024-06-25,Pooja Mehta,+919876543221,Britannia Bread 400g,Groceries,2,65.00,130.00,UPI,0.00,0.00,130.00,Priya Singh,ST-337,RCP-000337,65,
+SALE-00338,2024-06-26,Arjun Rao,+919876543222,Patanjali Honey 500g,Groceries,1,550.00,550.00,Credit Card,15.00,82.50,467.50,Rahul Verma,ST-338,RCP-000338,234,Premium organic product
+SALE-00339,2024-06-27,Neha Kapoor,+919876543223,Sunsilk Shampoo 200ml,Personal Care,2,220.00,440.00,Debit Card,0.00,0.00,440.00,Sneha Patel,ST-339,RCP-000339,220,
+SALE-00340,2024-06-28,Sanjay Mishra,+919876543224,Nescafe Classic 100g,Beverages,1,380.00,380.00,Wallet,10.00,38.00,342.00,Vikram Joshi,ST-340,RCP-000340,171,Morning coffee supply
+SALE-00341,2024-06-29,Rajesh Kumar,+919876543225,Organic Basmati Rice 5kg,Groceries,1,450.00,450.00,Cash,0.00,0.00,450.00,Amit Sharma,ST-341,RCP-000341,225,
+SALE-00342,2024-06-30,Priya Sharma,+919876543226,Tata Tea Gold 500g,Groceries,2,320.00,640.00,UPI,5.00,32.00,608.00,Priya Singh,ST-342,RCP-000342,304,Regular monthly stock
+SALE-00343,2024-07-01,Amit Patel,+919876543227,Amul Butter 500g,Groceries,1,280.00,280.00,Debit Card,0.00,0.00,280.00,Rahul Verma,ST-343,RCP-000343,140,
+SALE-00344,2024-07-02,Sneha Reddy,+919876543228,Colgate Total 100g,Personal Care,3,145.00,435.00,Wallet,10.00,43.50,391.50,Sneha Patel,ST-344,RCP-000344,196,Family pack purchase
+SALE-00345,2024-07-03,Vikram Singh,+919876543229,Parle-G Biscuits 500g,Snacks,2,85.00,170.00,Cash,0.00,0.00,170.00,Vikram Joshi,ST-345,RCP-000345,85,
+SALE-00346,2024-07-04,Anita Desai,+919876543230,Maggi Noodles 70g,Snacks,5,12.00,60.00,UPI,5.00,3.00,57.00,Amit Sharma,ST-346,RCP-000346,29,Quick dinner solution
+SALE-00347,2024-07-05,Rahul Verma,+919876543231,Himalaya Soap 125g,Personal Care,4,95.00,380.00,Credit Card,0.00,0.00,380.00,Priya Singh,ST-347,RCP-000347,190,
+SALE-00348,2024-07-06,Deepa Iyer,+919876543232,Dove Body Wash 250ml,Personal Care,1,450.00,450.00,Debit Card,15.00,67.50,382.50,Rahul Verma,ST-348,RCP-000348,191,Special offer item
+SALE-00349,2024-07-07,Suresh Nair,+919876543233,Lay's Chips Classic 50g,Snacks,3,25.00,75.00,Wallet,0.00,0.00,75.00,Sneha Patel,ST-349,RCP-000349,38,
+SALE-00350,2024-07-08,Kavita Joshi,+919876543234,Tropicana Juice 1L,Beverages,2,180.00,360.00,Cash,10.00,36.00,324.00,Vikram Joshi,ST-350,RCP-000350,162,Summer refreshment stock
+SALE-00351,2024-06-15,Rajesh Kumar,+919876543501,Organic Basmati Rice 5kg,Groceries,5,500.00,2500.00,UPI,,,2500.00,Amit Sharma,ST-351,RCP-000351,250,Customer requested extra bagging
+SALE-00352,2024-06-15,Priya Sharma,+919876543502,Tata Tea Gold 500g,Groceries,2,350.00,700.00,Cash,5.00,35.00,665.00,Priya Singh,ST-352,RCP-000352,70,
+SALE-00353,2024-06-16,Amit Patel,+919876543503,Amul Butter 500g,Groceries,3,280.00,840.00,Debit Card,,,840.00,Rahul Verma,ST-353,RCP-000353,84,Gift wrap requested
+SALE-00354,2024-06-16,Sneha Reddy,+919876543504,Colgate Total 100g,Personal Care,1,180.00,180.00,Wallet,10.00,18.00,162.00,Sneha Patel,ST-354,RCP-000354,16,
+SALE-00355,2024-06-17,Vikram Singh,+919876543505,Parle-G Biscuits 500g,Snacks,4,85.00,340.00,Credit Card,,,340.00,Vikram Joshi,ST-355,RCP-000355,34,
+SALE-00356,2024-06-17,Anita Desai,+919876543506,Maggi Noodles 70g,Snacks,6,120.00,720.00,UPI,15.00,108.00,612.00,Amit Sharma,ST-356,RCP-000356,61,Bulk purchase for office party
+SALE-00357,2024-06-18,Rahul Verma,+919876543507,Himalaya Soap 125g,Personal Care,2,140.00,280.00,Cash,,,280.00,Priya Singh,ST-357,RCP-000357,28,
+SALE-00358,2024-06-18,Deepa Iyer,+919876543508,Dove Body Wash 250ml,Personal Care,1,450.00,450.00,Debit Card,5.00,22.50,427.50,Rahul Verma,ST-358,RCP-000358,42,
+SALE-00359,2024-06-19,Suresh Nair,+919876543509,Lay's Chips Classic 50g,Snacks,5,60.00,300.00,Wallet,,,300.00,Sneha Patel,ST-359,RCP-000359,30,
+SALE-00360,2024-06-19,Kavita Joshi,+919876543510,Tropicana Juice 1L,Beverages,3,110.00,330.00,Credit Card,10.00,33.00,297.00,Vikram Joshi,ST-360,RCP-000360,29,Customer asked for cold drinks
+SALE-00361,2024-06-20,Manoj Gupta,+919876543511,Cadbury Dairy Milk 50g,Snacks,2,160.00,320.00,UPI,,,320.00,Amit Sharma,ST-361,RCP-000361,32,
+SALE-00362,2024-06-20,Pooja Mehta,+919876543512,Britannia Bread 400g,Groceries,4,95.00,380.00,Cash,,,380.00,Priya Singh,ST-362,RCP-000362,38,
+SALE-00363,2024-06-21,Arjun Rao,+919876543513,Patanjali Honey 500g,Groceries,1,550.00,550.00,Debit Card,5.00,27.50,522.50,Rahul Verma,ST-363,RCP-000363,52,Organic product inquiry made
+SALE-00364,2024-06-21,Neha Kapoor,+919876543514,Sunsilk Shampoo 200ml,Personal Care,2,220.00,440.00,Wallet,,,440.00,Sneha Patel,ST-364,RCP-000364,44,
+SALE-00365,2024-06-22,Sanjay Mishra,+919876543515,Nescafe Classic 100g,Beverages,3,200.00,600.00,Credit Card,10.00,60.00,540.00,Vikram Joshi,ST-365,RCP-000365,54,
+SALE-00366,2024-06-22,Rajesh Kumar,+919876543516,Organic Basmati Rice 5kg,Groceries,2,500.00,1000.00,UPI,,,1000.00,Amit Sharma,ST-366,RCP-000366,100,
+SALE-00367,2024-06-23,Priya Sharma,+919876543517,Tata Tea Gold 500g,Groceries,1,350.00,350.00,Cash,,,350.00,Priya Singh,ST-367,RCP-000367,35,
+SALE-00368,2024-06-23,Amit Patel,+919876543518,Amul Butter 500g,Groceries,2,280.00,560.00,Debit Card,5.00,28.00,532.00,Rahul Verma,ST-368,RCP-000368,53,
+SALE-00369,2024-06-24,Sneha Reddy,+919876543519,Colgate Total 100g,Personal Care,3,180.00,540.00,Wallet,,,540.00,Sneha Patel,ST-369,RCP-000369,54,
+SALE-00370,2024-06-24,Vikram Singh,+919876543520,Parle-G Biscuits 500g,Snacks,5,85.00,425.00,Credit Card,15.00,63.75,361.25,Vikram Joshi,ST-370,RCP-000370,36,Bulk order for school event
+SALE-00371,2024-06-25,Anita Desai,+919876543521,Maggi Noodles 70g,Snacks,2,120.00,240.00,UPI,,,240.00,Amit Sharma,ST-371,RCP-000371,24,
+SALE-00372,2024-06-25,Rahul Verma,+919876543522,Himalaya Soap 125g,Personal Care,4,140.00,560.00,Cash,,,560.00,Priya Singh,ST-372,RCP-000372,56,
+SALE-00373,2024-06-26,Deepa Iyer,+919876543523,Dove Body Wash 250ml,Personal Care,1,450.00,450.00,Debit Card,10.00,45.00,405.00,Rahul Verma,ST-373,RCP-000373,40,Customer loyalty member
+SALE-00374,2024-06-26,Suresh Nair,+919876543524,Lay's Chips Classic 50g,Snacks,3,60.00,180.00,Wallet,,,180.00,Sneha Patel,ST-374,RCP-000374,18,
+SALE-00375,2024-06-27,Kavita Joshi,+919876543525,Tropicana Juice 1L,Beverages,2,110.00,220.00,Credit Card,,,220.00,Vikram Joshi,ST-375,RCP-000375,22,
+SALE-00376,2024-03-12,Rajesh Kumar,+919876543210,Organic Basmati Rice 5kg,Groceries,5,1250.00,6250.00,UPI,5.00,312.50,5937.50,Amit Sharma,ST-376,RCP-000376,125,Customer requested extra bagging
+SALE-00377,2024-03-12,Priya Sharma,+919876543211,Tata Tea Gold 500g,Groceries,2,450.00,900.00,Cash,,,900.00,Priya Singh,ST-377,RCP-000377,45,
+SALE-00378,2024-03-13,Amit Patel,+919876543212,Amul Butter 500g,Groceries,3,280.00,840.00,Debit Card,2.50,21.00,819.00,Rahul Verma,ST-378,RCP-000378,42,Gift wrapped for birthday
+SALE-00379,2024-03-13,Sneha Reddy,+919876543213,Colgate Total 100g,Personal Care,1,180.00,180.00,Wallet,,,180.00,Sneha Patel,ST-379,RCP-000379,9,
+SALE-00380,2024-03-14,Vikram Singh,+919876543214,Parle-G Biscuits 500g,Snacks,4,65.00,260.00,Credit Card,10.00,26.00,234.00,Vikram Joshi,ST-380,RCP-000380,13,
+SALE-00381,2024-03-14,Anita Desai,+919876543215,Maggi Noodles 70g,Snacks,6,120.00,720.00,UPI,0.00,0.00,720.00,Amit Sharma,ST-381,RCP-000381,36,Bulk purchase for event
+SALE-00382,2024-03-15,Rahul Verma,+919876543216,Himalaya Soap 125g,Personal Care,2,140.00,280.00,Cash,,,280.00,Priya Singh,ST-382,RCP-000382,14,
+SALE-00383,2024-03-15,Deepa Iyer,+919876543217,Dove Body Wash 250ml,Personal Care,1,350.00,350.00,Debit Card,5.00,17.50,332.50,Rahul Verma,ST-383,RCP-000383,17,
+SALE-00384,2024-03-16,Suresh Nair,+919876543218,Lay's Chips Classic 50g,Snacks,5,45.00,225.00,Wallet,,,225.00,Sneha Patel,ST-384,RCP-000384,11,
+SALE-00385,2024-03-16,Kavita Joshi,+919876543219,Tropicana Juice 1L,Beverages,3,110.00,330.00,Credit Card,8.00,26.40,303.60,Vikram Joshi,ST-385,RCP-000385,16,
+SALE-00386,2024-03-17,Manoj Gupta,+919876543220,Cadbury Dairy Milk 50g,Snacks,2,160.00,320.00,UPI,,,320.00,Amit Sharma,ST-386,RCP-000386,16,Gift for colleague
+SALE-00387,2024-03-17,Pooja Mehta,+919876543221,Britannia Bread 400g,Groceries,4,55.00,220.00,Cash,3.00,6.60,213.40,Priya Singh,ST-387,RCP-000387,11,
+SALE-00388,2024-03-18,Arjun Rao,+919876543222,Patanjali Honey 500g,Groceries,1,420.00,420.00,Debit Card,,,420.00,Rahul Verma,ST-388,RCP-000388,21,
+SALE-00389,2024-03-18,Neha Kapoor,+919876543223,Sunsilk Shampoo 200ml,Personal Care,2,290.00,580.00,Wallet,15.00,87.00,493.00,Sneha Patel,ST-389,RCP-000389,29,
+SALE-00390,2024-03-19,Sanjay Mishra,+919876543224,Nescafe Classic 100g,Beverages,3,380.00,1140.00,Credit Card,,,1140.00,Vikram Joshi,ST-390,RCP-000390,57,
+SALE-00391,2024-03-19,Rajesh Kumar,+919876543225,Organic Basmati Rice 5kg,Groceries,2,1250.00,2500.00,UPI,5.00,125.00,2375.00,Amit Sharma,ST-391,RCP-000391,118,
+SALE-00392,2024-03-20,Priya Sharma,+919876543226,Tata Tea Gold 500g,Groceries,1,450.00,450.00,Cash,,,450.00,Priya Singh,ST-392,RCP-000392,22,
+SALE-00393,2024-03-20,Amit Patel,+919876543227,Amul Butter 500g,Groceries,2,280.00,560.00,Debit Card,4.00,22.40,537.60,Rahul Verma,ST-393,RCP-000393,28,
+SALE-00394,2024-03-21,Sneha Reddy,+919876543228,Colgate Total 100g,Personal Care,3,180.00,540.00,Wallet,,,540.00,Sneha Patel,ST-394,RCP-000394,27,
+SALE-00395,2024-03-21,Vikram Singh,+919876543229,Parle-G Biscuits 500g,Snacks,5,65.00,325.00,Credit Card,2.00,6.50,318.50,Vikram Joshi,ST-395,RCP-000395,16,
+SALE-00396,2024-03-22,Anita Desai,+919876543230,Maggi Noodles 70g,Snacks,8,120.00,960.00,UPI,10.00,96.00,864.00,Amit Sharma,ST-396,RCP-000396,48,Large order for party
+SALE-00397,2024-03-22,Rahul Verma,+919876543231,Himalaya Soap 125g,Personal Care,4,140.00,560.00,Cash,,,560.00,Priya Singh,ST-397,RCP-000397,28,
+SALE-00398,2024-03-23,Deepa Iyer,+919876543232,Dove Body Wash 250ml,Personal Care,1,350.00,350.00,Debit Card,7.00,24.50,325.50,Rahul Verma,ST-398,RCP-000398,17,
+SALE-00399,2024-03-23,Suresh Nair,+919876543233,Lay's Chips Classic 50g,Snacks,6,45.00,270.00,Wallet,,,270.00,Sneha Patel,ST-399,RCP-000399,13,
+SALE-00400,2024-03-24,Kavita Joshi,+919876543234,Tropicana Juice 1L,Beverages,2,110.00,220.00,Credit Card,5.00,11.00,209.00,Vikram Joshi,ST-400,RCP-000400,11,End of month stock clearance
+SALE-00401,2024-03-15,Rajesh Kumar,+919876543201,Organic Basmati Rice 5kg,Groceries,5,1250.00,6250.00,UPI,,,6250.00,Amit Sharma,ST-401,RCP-000401,125,Customer requested extra bagging
+SALE-00402,2024-03-16,Priya Sharma,+919876543202,Tata Tea Gold 500g,Groceries,2,350.00,700.00,Cash,5.00,35.00,665.00,Priya Singh,ST-402,RCP-000402,70,
+SALE-00403,2024-03-17,Amit Patel,+919876543203,Amul Butter 500g,Groceries,3,280.00,840.00,Debit Card,,,840.00,Rahul Verma,ST-403,RCP-000403,84,
+SALE-00404,2024-03-18,Sneha Reddy,+919876543204,Colgate Total 100g,Personal Care,1,180.00,180.00,Credit Card,10.00,18.00,162.00,Sneha Patel,ST-404,RCP-000404,18,
+SALE-00405,2024-03-19,Vikram Singh,+919876543205,Parle-G Biscuits 500g,Snacks,4,85.00,340.00,Wallet,,,340.00,Vikram Joshi,ST-405,RCP-000405,34,
+SALE-00406,2024-03-20,Anita Desai,+919876543206,Maggi Noodles 70g,Snacks,6,12.00,72.00,UPI,,,72.00,Amit Sharma,ST-406,RCP-000406,7,
+SALE-00407,2024-03-21,Rahul Verma,+919876543207,Himalaya Soap 125g,Personal Care,2,110.00,220.00,Cash,15.00,33.00,187.00,Priya Singh,ST-407,RCP-000407,22,
+SALE-00408,2024-03-22,Deepa Iyer,+919876543208,Dove Body Wash 250ml,Personal Care,1,450.00,450.00,Debit Card,,,450.00,Rahul Verma,ST-408,RCP-000408,45,
+SALE-00409,2024-03-23,Suresh Nair,+919876543209,Lay's Chips Classic 50g,Snacks,5,45.00,225.00,Credit Card,,,225.00,Sneha Patel,ST-409,RCP-000409,23,
+SALE-00410,2024-03-24,Kavita Joshi,+919876543210,Tropicana Juice 1L,Beverages,2,120.00,240.00,Wallet,,,240.00,Vikram Joshi,ST-410,RCP-000410,24,
+SALE-00411,2024-03-25,Manoj Gupta,+919876543211,Cadbury Dairy Milk 50g,Snacks,3,150.00,450.00,UPI,20.00,90.00,360.00,Amit Sharma,ST-411,RCP-000411,36,Gift for birthday
+SALE-00412,2024-03-26,Pooja Mehta,+919876543212,Britannia Bread 400g,Groceries,2,65.00,130.00,Cash,,,130.00,Priya Singh,ST-412,RCP-000412,13,
+SALE-00413,2024-03-27,Arjun Rao,+919876543213,Patanjali Honey 500g,Groceries,1,380.00,380.00,Debit Card,,,380.00,Rahul Verma,ST-413,RCP-000413,38,
+SALE-00414,2024-03-28,Neha Kapoor,+919876543214,Sunsilk Shampoo 200ml,Personal Care,1,220.00,220.00,Credit Card,,,220.00,Sneha Patel,ST-414,RCP-000414,22,
+SALE-00415,2024-03-29,Sanjay Mishra,+919876543215,Nescafe Classic 100g,Beverages,2,280.00,560.00,Wallet,10.00,56.00,504.00,Vikram Joshi,ST-415,RCP-000415,50,
+SALE-00416,2024-04-01,Rajesh Kumar,+919876543216,Organic Basmati Rice 5kg,Groceries,1,1250.00,1250.00,UPI,,,1250.00,Amit Sharma,ST-416,RCP-000416,125,
+SALE-00417,2024-04-02,Priya Sharma,+919876543217,Tata Tea Gold 500g,Groceries,3,350.00,1050.00,Cash,5.00,52.50,997.50,Priya Singh,ST-417,RCP-000417,99,
+SALE-00418,2024-04-03,Amit Patel,+919876543218,Amul Butter 500g,Groceries,2,280.00,560.00,Debit Card,,,560.00,Rahul Verma,ST-418,RCP-000418,56,
+SALE-00419,2024-04-04,Sneha Reddy,+919876543219,Colgate Total 100g,Personal Care,4,180.00,720.00,Credit Card,,,720.00,Sneha Patel,ST-419,RCP-000419,72,
+SALE-00420,2024-04-05,Vikram Singh,+919876543220,Parle-G Biscuits 500g,Snacks,10,85.00,850.00,Wallet,,,850.00,Vikram Joshi,ST-420,RCP-000420,85,Bulk purchase
+SALE-00421,2024-04-06,Anita Desai,+919876543221,Maggi Noodles 70g,Snacks,8,12.00,96.00,UPI,,,96.00,Amit Sharma,ST-421,RCP-000421,9,
+SALE-00422,2024-04-07,Rahul Verma,+919876543222,Himalaya Soap 125g,Personal Care,3,110.00,330.00,Cash,15.00,49.50,280.50,Priya Singh,ST-422,RCP-000422,28,
+SALE-00423,2024-04-08,Deepa Iyer,+919876543223,Dove Body Wash 250ml,Personal Care,1,450.00,450.00,Debit Card,,,450.00,Rahul Verma,ST-423,RCP-000423,45,
+SALE-00424,2024-04-09,Suresh Nair,+919876543224,Lay's Chips Classic 50g,Snacks,2,45.00,90.00,Credit Card,,,90.00,Sneha Patel,ST-424,RCP-000424,9,
+SALE-00426,2024-06-12,Rajesh Kumar,+919876543210,Organic Basmati Rice 5kg,Groceries,2,850.00,1700.00,UPI,5.00,85.00,1615.00,Amit Sharma,ST-426,RCP-000426,170,Customer asked for extra bagging
+SALE-00427,2024-06-12,Priya Sharma,+919876543211,Tata Tea Gold 500g,Groceries,1,320.00,320.00,Cash,,,320.00,Priya Singh,ST-427,RCP-000427,32,
+SALE-00428,2024-06-13,Amit Patel,+919876543212,Amul Butter 500g,Groceries,3,65.00,195.00,Debit Card,10.00,19.50,175.50,Rahul Verma,ST-428,RCP-000428,20,
+SALE-00429,2024-06-13,Sneha Reddy,+919876543213,Colgate Total 100g,Personal Care,2,110.00,220.00,Wallet,0.00,0.00,220.00,Sneha Patel,ST-429,RCP-000429,22,
+SALE-00430,2024-06-14,Vikram Singh,+919876543214,Parle-G Biscuits 500g,Snacks,5,45.00,225.00,Credit Card,,,225.00,Vikram Joshi,ST-430,RCP-000430,23,
+SALE-00431,2024-06-14,Anita Desai,+919876543215,Maggi Noodles 70g,Snacks,10,12.00,120.00,UPI,15.00,18.00,102.00,Amit Sharma,ST-431,RCP-000431,12,Bulk purchase for office
+SALE-00432,2024-06-15,Rahul Verma,+919876543216,Himalaya Soap 125g,Personal Care,4,55.00,220.00,Cash,,,220.00,Priya Singh,ST-432,RCP-000432,22,
+SALE-00433,2024-06-15,Deepa Iyer,+919876543217,Dove Body Wash 250ml,Personal Care,1,280.00,280.00,Debit Card,20.00,56.00,224.00,Rahul Verma,ST-433,RCP-000433,28,
+SALE-00434,2024-06-16,Suresh Nair,+919876543218,Lay's Chips Classic 50g,Snacks,6,30.00,180.00,Wallet,,,180.00,Sneha Patel,ST-434,RCP-000434,18,
+SALE-00435,2024-06-16,Kavita Joshi,+919876543219,Tropicana Juice 1L,Beverages,2,95.00,190.00,Credit Card,5.00,9.50,180.50,Vikram Joshi,ST-435,RCP-000435,19,
+SALE-00436,2024-06-17,Manoj Gupta,+919876543220,Cadbury Dairy Milk 50g,Snacks,3,120.00,360.00,UPI,,,360.00,Amit Sharma,ST-436,RCP-000436,36,Gift for birthday
+SALE-00437,2024-06-17,Pooja Mehta,+919876543221,Britannia Bread 400g,Groceries,2,50.00,100.00,Cash,10.00,10.00,90.00,Priya Singh,ST-437,RCP-000437,10,
+SALE-00438,2024-06-18,Arjun Rao,+919876543222,Patanjali Honey 500g,Groceries,1,450.00,450.00,Debit Card,,,450.00,Rahul Verma,ST-438,RCP-000438,45,
+SALE-00439,2024-06-18,Neha Kapoor,+919876543223,Sunsilk Shampoo 200ml,Personal Care,2,180.00,360.00,Wallet,15.00,54.00,306.00,Sneha Patel,ST-439,RCP-000439,30,
+SALE-00440,2024-06-19,Sanjay Mishra,+919876543224,Nescafe Classic 100g,Beverages,1,250.00,250.00,Credit Card,,,250.00,Vikram Joshi,ST-440,RCP-000440,25,
+SALE-00441,2024-06-19,Rajesh Kumar,+919876543225,Organic Basmati Rice 5kg,Groceries,1,850.00,850.00,UPI,0.00,0.00,850.00,Amit Sharma,ST-441,RCP-000441,85,
+SALE-00442,2024-06-20,Priya Sharma,+919876543226,Tata Tea Gold 500g,Groceries,2,320.00,640.00,Cash,,,640.00,Priya Singh,ST-442,RCP-000442,64,
+SALE-00443,2024-06-20,Amit Patel,+919876543227,Amul Butter 500g,Groceries,4,65.00,260.00,Debit Card,5.00,13.00,247.00,Rahul Verma,ST-443,RCP-000443,26,
+SALE-00444,2024-06-21,Sneha Reddy,+919876543228,Colgate Total 100g,Personal Care,3,110.00,330.00,Wallet,,,330.00,Sneha Patel,ST-444,RCP-000444,33,
+SALE-00445,2024-06-21,Vikram Singh,+919876543229,Parle-G Biscuits 500g,Snacks,2,45.00,90.00,Credit Card,10.00,9.00,81.00,Vikram Joshi,ST-445,RCP-000445,9,
+SALE-00446,2024-06-22,Anita Desai,+919876543230,Maggi Noodles 70g,Snacks,8,12.00,96.00,UPI,,,96.00,Amit Sharma,ST-446,RCP-000446,10,
+SALE-00447,2024-06-22,Rahul Verma,+919876543231,Himalaya Soap 125g,Personal Care,5,55.00,275.00,Cash,20.00,55.00,220.00,Priya Singh,ST-447,RCP-000447,22,Family pack
+SALE-00448,2024-06-23,Deepa Iyer,+919876543232,Dove Body Wash 250ml,Personal Care,1,280.00,280.00,Debit Card,,,280.00,Rahul Verma,ST-448,RCP-000448,28,
+SALE-00449,2024-06-23,Suresh Nair,+919876543233,Lay's Chips Classic 50g,Snacks,4,30.00,120.00,Wallet,,,120.00,Sneha Patel,ST-449,RCP-000449,12,
+SALE-00450,2024-06-24,Kavita Joshi,+919876543234,Tropicana Juice 1L,Beverages,3,95.00,285.00,Credit Card,5.00,14.25,270.75,Vikram Joshi,ST-450,RCP-000450,27,
+SALE-00451,2024-07-15,Rajesh Kumar,+919876543451,Organic Basmati Rice 5kg,Groceries,5,1250.00,6250.00,UPI,5.00,312.50,5937.50,Amit Sharma,ST-451,RCP-000451,312,Customer requested extra bagging
+SALE-00452,2024-07-16,Priya Sharma,+919876543452,Tata Tea Gold 500g,Groceries,2,450.00,900.00,Cash,0.00,0.00,900.00,Priya Singh,ST-452,RCP-000452,45,
+SALE-00453,2024-07-17,Amit Patel,+919876543453,Amul Butter 500g,Groceries,3,220.00,660.00,Debit Card,10.00,66.00,594.00,Rahul Verma,ST-453,RCP-000453,30,Bought for birthday cake
+SALE-00454,2024-07-18,Sneha Reddy,+919876543454,Colgate Total 100g,Personal Care,1,180.00,180.00,Wallet,0.00,0.00,180.00,Sneha Patel,ST-454,RCP-000454,18,
+SALE-00455,2024-07-19,Vikram Singh,+919876543455,Parle-G Biscuits 500g,Snacks,4,120.00,480.00,Credit Card,2.00,9.60,470.40,Vikram Joshi,ST-455,RCP-000455,48,Kids love this snack
+SALE-00456,2024-07-20,Anita Desai,+919876543456,Maggi Noodles 70g,Groceries,6,15.00,90.00,UPI,0.00,0.00,90.00,Amit Sharma,ST-456,RCP-000456,9,
+SALE-00457,2024-07-21,Rahul Verma,+919876543457,Himalaya Soap 125g,Personal Care,2,85.00,170.00,Cash,5.00,8.50,161.50,Priya Singh,ST-457,RCP-000457,17,Sensitive skin friendly
+SALE-00458,2024-07-22,Deepa Iyer,+919876543458,Dove Body Wash 250ml,Personal Care,1,350.00,350.00,Debit Card,0.00,0.00,350.00,Rahul Verma,ST-458,RCP-000458,35,
+SALE-00459,2024-07-23,Suresh Nair,+919876543459,Lay's Chips Classic 50g,Snacks,3,25.00,75.00,Wallet,0.00,0.00,75.00,Sneha Patel,ST-459,RCP-000459,7,Movie night snack
+SALE-00460,2024-07-24,Kavita Joshi,+919876543460,Tropicana Juice 1L,Beverages,2,110.00,220.00,Credit Card,15.00,33.00,187.00,Vikram Joshi,ST-460,RCP-000460,22,Fresh orange flavor
+SALE-00461,2024-07-25,Manoj Gupta,+919876543461,Cadbury Dairy Milk 50g,Snacks,5,140.00,700.00,UPI,0.00,0.00,700.00,Amit Sharma,ST-461,RCP-000461,70,
+SALE-00462,2024-07-26,Pooja Mehta,+919876543462,Britannia Bread 400g,Groceries,2,65.00,130.00,Cash,0.00,0.00,130.00,Priya Singh,ST-462,RCP-000462,13,Whole wheat variety
+SALE-00463,2024-07-27,Arjun Rao,+919876543463,Patanjali Honey 500g,Groceries,1,420.00,420.00,Debit Card,8.00,33.60,386.40,Rahul Verma,ST-463,RCP-000463,42,Pure organic honey
+SALE-00464,2024-07-28,Neha Kapoor,+919876543464,Sunsilk Shampoo 200ml,Personal Care,1,280.00,280.00,Wallet,0.00,0.00,280.00,Sneha Patel,ST-464,RCP-000464,28,
+SALE-00465,2024-07-29,Sanjay Mishra,+919876543465,Nescafe Classic 100g,Beverages,3,200.00,600.00,Credit Card,12.00,72.00,528.00,Vikram Joshi,ST-465,RCP-000465,60,Instant coffee pack
+SALE-00466,2024-07-30,Rajesh Kumar,+919876543466,Organic Basmati Rice 5kg,Groceries,2,1250.00,2500.00,UPI,0.00,0.00,2500.00,Amit Sharma,ST-466,RCP-000466,250,Bulk purchase for family
+SALE-00467,2024-07-31,Priya Sharma,+919876543467,Tata Tea Gold 500g,Groceries,1,450.00,450.00,Cash,0.00,0.00,450.00,Priya Singh,ST-467,RCP-000467,45,
+SALE-00468,2024-08-01,Amit Patel,+919876543468,Amul Butter 500g,Groceries,4,220.00,880.00,Debit Card,5.00,44.00,836.00,Rahul Verma,ST-468,RCP-000468,88,Stocking up for week
+SALE-00469,2024-08-02,Sneha Reddy,+919876543469,Colgate Total 100g,Personal Care,2,180.00,360.00,Wallet,0.00,0.00,360.00,Sneha Patel,ST-469,RCP-000469,36,
+SALE-00470,2024-08-03,Vikram Singh,+919876543470,Parle-G Biscuits 500g,Snacks,5,120.00,600.00,Credit Card,10.00,60.00,540.00,Vikram Joshi,ST-470,RCP-000470,60,Office pantry restock
+SALE-00471,2024-08-04,Anita Desai,+919876543471,Maggi Noodles 70g,Groceries,8,15.00,120.00,UPI,0.00,0.00,120.00,Amit Sharma,ST-471,RCP-000471,12,Quick dinner option
+SALE-00472,2024-08-05,Rahul Verma,+919876543472,Himalaya Soap 125g,Personal Care,3,85.00,255.00,Cash,0.00,0.00,255.00,Priya Singh,ST-472,RCP-000472,25,Gentle on skin
+SALE-00473,2024-08-06,Deepa Iyer,+919876543473,Dove Body Wash 250ml,Personal Care,1,350.00,350.00,Debit Card,20.00,70.00,280.00,Rahul Verma,ST-473,RCP-000473,35,Special offer item
+SALE-00474,2024-08-07,Suresh Nair,+919876543474,Lay's Chips Classic 50g,Snacks,2,25.00,50.00,Wallet,0.00,0.00,50.00,Sneha Patel,ST-474,RCP-000474,5,
+SALE-00475,2024-08-08,Kavita Joshi,+919876543475,Tropicana Juice 1L,Beverages,3,110.00,330.00,Credit Card,0.00,0.00,330.00,Vikram Joshi,ST-475,RCP-000475,33,Healthy breakfast drink
+SALE-00476,2024-11-01,Rajesh Kumar,+919876543210,Organic Basmati Rice 5kg,Groceries,2,350.00,700.00,UPI,5.00,35.00,665.00,Amit Sharma,ST-476,RCP-000476,70,Customer requested extra bagging
+SALE-00477,2024-11-02,Priya Sharma,+919876543211,Tata Tea Gold 500g,Beverages,1,280.00,280.00,Cash,,,280.00,Priya Singh,ST-477,RCP-000477,28,
+SALE-00478,2024-11-03,Amit Patel,+919876543212,Amul Butter 500g,Groceries,3,120.00,360.00,Debit Card,10.00,36.00,324.00,Rahul Verma,ST-478,RCP-000478,36,
+SALE-00479,2024-11-04,Sneha Reddy,+919876543213,Colgate Total 100g,Personal Care,2,150.00,300.00,Wallet,15.00,45.00,255.00,Sneha Patel,ST-479,RCP-000479,25,Loyalty member discount applied
+SALE-00480,2024-11-05,Vikram Singh,+919876543214,Parle-G Biscuits 500g,Snacks,5,40.00,200.00,Credit Card,,,200.00,Vikram Joshi,ST-480,RCP-000480,20,
+SALE-00481,2024-11-06,Anita Desai,+919876543215,Maggi Noodles 70g,Groceries,4,12.00,48.00,UPI,0.00,0.00,48.00,Amit Sharma,ST-481,RCP-000481,5,
+SALE-00482,2024-11-07,Rahul Verma,+919876543216,Himalaya Soap 125g,Personal Care,2,85.00,170.00,Cash,,,170.00,Priya Singh,ST-482,RCP-000482,17,
+SALE-00483,2024-11-08,Deepa Iyer,+919876543217,Dove Body Wash 250ml,Personal Care,1,320.00,320.00,Debit Card,20.00,64.00,256.00,Rahul Verma,ST-483,RCP-000483,26,Special offer item
+SALE-00484,2024-11-09,Suresh Nair,+919876543218,Lay's Chips Classic 50g,Snacks,6,25.00,150.00,Wallet,,,150.00,Sneha Patel,ST-484,RCP-000484,15,
+SALE-00485,2024-11-10,Kavita Joshi,+919876543219,Tropicana Juice 1L,Beverages,2,95.00,190.00,Credit Card,10.00,19.00,171.00,Vikram Joshi,ST-485,RCP-000485,17,
+SALE-00486,2024-11-11,Manoj Gupta,+919876543220,Cadbury Dairy Milk 50g,Snacks,3,65.00,195.00,UPI,,,195.00,Amit Sharma,ST-486,RCP-000486,20,
+SALE-00487,2024-11-12,Pooja Mehta,+919876543221,Britannia Bread 400g,Groceries,4,55.00,220.00,Cash,5.00,11.00,209.00,Priya Singh,ST-487,RCP-000487,21,
+SALE-00488,2024-11-13,Arjun Rao,+919876543222,Patanjali Honey 500g,Groceries,1,450.00,450.00,Debit Card,,,450.00,Rahul Verma,ST-488,RCP-000488,45,Premium product
+SALE-00489,2024-11-14,Neha Kapoor,+919876543223,Sunsilk Shampoo 200ml,Personal Care,2,210.00,420.00,Wallet,15.00,63.00,357.00,Sneha Patel,ST-489,RCP-000489,36,
+SALE-00490,2024-11-15,Sanjay Mishra,+919876543224,Nescafe Classic 100g,Beverages,1,180.00,180.00,Credit Card,,,180.00,Vikram Joshi,ST-490,RCP-000490,18,
+SALE-00491,2024-11-16,Rajesh Kumar,+919876543225,Organic Basmati Rice 5kg,Groceries,1,350.00,350.00,UPI,,,350.00,Amit Sharma,ST-491,RCP-000491,35,
+SALE-00492,2024-11-17,Priya Sharma,+919876543226,Tata Tea Gold 500g,Beverages,2,280.00,560.00,Cash,10.00,56.00,504.00,Priya Singh,ST-492,RCP-000492,50,Bulk purchase
+SALE-00493,2024-11-18,Amit Patel,+919876543227,Amul Butter 500g,Groceries,1,120.00,120.00,Debit Card,,,120.00,Rahul Verma,ST-493,RCP-000493,12,
+SALE-00494,2024-11-19,Sneha Reddy,+919876543228,Colgate Total 100g,Personal Care,3,150.00,450.00,Wallet,,,450.00,Sneha Patel,ST-494,RCP-000494,45,
+SALE-00495,2024-11-20,Vikram Singh,+919876543229,Parle-G Biscuits 500g,Snacks,2,40.00,80.00,Credit Card,5.00,4.00,76.00,Vikram Joshi,ST-495,RCP-000495,8,
+SALE-00496,2024-11-21,Anita Desai,+919876543230,Maggi Noodles 70g,Groceries,5,12.00,60.00,UPI,,,60.00,Amit Sharma,ST-496,RCP-000496,6,
+SALE-00497,2024-11-22,Rahul Verma,+919876543231,Himalaya Soap 125g,Personal Care,1,85.00,85.00,Cash,,,85.00,Priya Singh,ST-497,RCP-000497,9,
+SALE-00498,2024-11-23,Deepa Iyer,+919876543232,Dove Body Wash 250ml,Personal Care,1,320.00,320.00,Debit Card,20.00,64.00,256.00,Rahul Verma,ST-498,RCP-000498,26,
+SALE-00499,2024-11-24,Suresh Nair,+919876543233,Lay's Chips Classic 50g,Snacks,4,25.00,100.00,Wallet,,,100.00,Sneha Patel,ST-499,RCP-000499,10,
+SALE-00500,2024-11-25,Kavita Joshi,+919876543234,Tropicana Juice 1L,Beverages,3,95.00,285.00,Credit Card,10.00,28.50,256.50,Vikram Joshi,ST-500,RCP-000500,26,End of month sale
